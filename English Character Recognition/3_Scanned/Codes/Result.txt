@@ -1,0 +1,6822 @@
+
+Photo Name           :  A576
+predicted Alphabet   :  A
+Probability value    :  0.999962
+
+Photo Name           :  A577
+predicted Alphabet   :  A
+Probability value    :  1.0
+
+
+Photo Name           :  A578
+predicted Alphabet   :  A
+Probability value    :  0.995715
+
+Photo Name           :  A579
+predicted Alphabet   :  A
+Probability value    :  0.999978
+
+
+Photo Name           :  A580
+predicted Alphabet   :  A
+Probability value    :  0.998618
+
+
+Photo Name           :  A581
+predicted Alphabet   :  A
+Probability value    :  0.994802
+
+
+Photo Name           :  A582
+predicted Alphabet   : Unknown
+Probability value    :  0.636092
+
+
+Photo Name           :  A583
+predicted Alphabet   : A
+Probability value    :  0.815597
+
+
+Photo Name           :  A584
+predicted Alphabet   : Unknown
+Probability value    :  0.57348
+
+
+Photo Name           :  A585
+predicted Alphabet   : A
+Probability value    :  0.8389
+
+
+Photo Name           :  A586
+predicted Alphabet   :  A
+Probability value    :  0.965682
+
+Photo Name           :  A587
+predicted Alphabet   :  A
+Probability value    :  0.95664
+
+
+Photo Name           :  A588
+predicted Alphabet   :  A
+Probability value    :  0.998445
+
+
+Photo Name           :  A589
+predicted Alphabet   : Unknown
+Probability value    :  0.89488
+
+
+ 12:38:46.414100: 
+ 
+ 
+ 12:38:46.414100: 
+ 
+ 
+ 
+ 
+Photo Name           :  A590
+predicted Alphabet   :  A
+Probability value    :  0.992476
+
+
+ 12:38:47.525504: 
+ 
+ 
+ 12:38:47.525504: 
+ 
+ 
+ 
+ 
+Photo Name           :  A591
+predicted Alphabet   :  A
+Probability value    :  0.980442
+
+
+ 12:38:48.542109: 
+ 
+ 
+ 12:38:48.542109: 
+ 
+ 
+ 
+ 
+Photo Name           :  A592
+predicted Alphabet   : A
+Probability value    :  0.661025
+
+
+ 12:38:49.564913: 
+ 
+ 
+ 12:38:49.564913: 
+ 
+ 
+ 
+ 
+Photo Name           :  A593
+predicted Alphabet   :  A
+Probability value    :  0.920408
+
+
+ 12:38:50.686718: 
+ 
+ 
+ 12:38:50.687718: 
+ 
+ 
+ 
+ 
+Photo Name           :  A594
+predicted Alphabet   : A
+Probability value    :  0.769946
+
+
+ 12:38:51.899925: 
+ 
+ 
+ 12:38:51.899925: 
+ 
+ 
+ 
+ 
+Photo Name           :  A595
+predicted Alphabet   :  A
+Probability value    :  0.999435
+
+
+ 12:38:52.980134: 
+ 
+ 
+ 12:38:52.980134: 
+ 
+ 
+ 
+ 
+Photo Name           :  A596
+predicted Alphabet   :  A
+Probability value    :  0.999999
+
+
+ 12:38:54.063738: 
+ 
+ 
+ 12:38:54.063738: 
+ 
+ 
+ 
+ 
+Photo Name           :  A597
+predicted Alphabet   :  A
+Probability value    :  1.0
+
+
+ 12:38:55.247142: 
+ 
+ 
+ 12:38:55.247142: 
+ 
+ 
+ 
+ 
+Photo Name           :  A598
+predicted Alphabet   :  P
+Probability value    :  0.970425
+
+
+ 12:38:56.381547: 
+ 
+ 
+ 12:38:56.381547: 
+ 
+ 
+ 
+ 
+Photo Name           :  A599
+predicted Alphabet   :  A
+Probability value    :  0.999924
+
+
+ 12:38:57.531953: 
+ 
+ 
+ 12:38:57.531953: 
+ 
+ 
+ 
+ 
+Photo Name           :  A600
+predicted Alphabet   :  A
+Probability value    :  0.999997
+
+
+ 12:38:58.707158: 
+ 
+ 
+ 12:38:58.708158: 
+ 
+ 
+ 
+ 
+Photo Name           :  A601
+predicted Alphabet   :  A
+Probability value    :  0.972346
+
+
+ 12:39:00.041799: 
+ 
+ 
+ 12:39:00.041799: 
+ 
+ 
+ 
+ 
+Photo Name           :  A602
+predicted Alphabet   :  A
+Probability value    :  0.982152
+
+
+ 12:39:01.384824: 
+ 
+ 
+ 12:39:01.384824: 
+ 
+ 
+ 
+ 
+Photo Name           :  B555
+predicted Alphabet   :  B
+Probability value    :  0.916762
+
+
+ 12:39:02.763463: 
+ 
+ 
+ 12:39:02.763463: 
+ 
+ 
+ 
+ 
+Photo Name           :  B556
+predicted Alphabet   :  B
+Probability value    :  1.0
+
+
+ 12:39:04.025673: 
+ 
+ 
+ 12:39:04.025673: 
+ 
+ 
+ 
+ 
+Photo Name           :  B557
+predicted Alphabet   :  B
+Probability value    :  0.999992
+
+
+ 12:39:05.292483: 
+ 
+ 
+ 12:39:05.292483: 
+ 
+ 
+ 
+ 
+Photo Name           :  B558
+predicted Alphabet   :  I
+Probability value    :  0.995559
+
+
+ 12:39:06.672113: 
+ 
+ 
+ 12:39:06.672113: 
+ 
+ 
+ 
+ 
+Photo Name           :  B559
+predicted Alphabet   :  B
+Probability value    :  0.994058
+
+
+ 12:39:08.017129: 
+ 
+ 
+ 12:39:08.017129: 
+ 
+ 
+ 
+ 
+Photo Name           :  B560
+predicted Alphabet   :  B
+Probability value    :  0.99984
+
+
+ 12:39:09.342537: 
+ 
+ 
+ 12:39:09.342537: 
+ 
+ 
+ 
+ 
+Photo Name           :  B561
+predicted Alphabet   :  B
+Probability value    :  0.999997
+
+
+ 12:39:10.822768: 
+ 
+ 
+ 12:39:10.822768: 
+ 
+ 
+ 
+ 
+Photo Name           :  B562
+predicted Alphabet   : B
+Probability value    :  0.335813
+
+
+ 12:39:12.356795: 
+ 
+ 
+ 12:39:12.356795: 
+ 
+ 
+ 
+ 
+Photo Name           :  B563
+predicted Alphabet   :  B
+Probability value    :  0.994756
+
+
+ 12:39:13.736206: 
+ 
+ 
+ 12:39:13.736206: 
+ 
+ 
+ 
+ 
+Photo Name           :  B564
+predicted Alphabet   :  B
+Probability value    :  0.995922
+
+
+ 12:39:15.142010: 
+ 
+ 
+ 12:39:15.142010: 
+ 
+ 
+ 
+ 
+Photo Name           :  B565
+predicted Alphabet   :  B
+Probability value    :  0.984118
+
+
+ 12:39:16.687624: 
+ 
+ 
+ 12:39:16.687624: 
+ 
+ 
+ 
+ 
+Photo Name           :  B566
+predicted Alphabet   :  B
+Probability value    :  0.999982
+
+
+ 12:39:18.135858: 
+ 
+ 
+ 12:39:18.135858: 
+ 
+ 
+ 
+ 
+Photo Name           :  B567
+predicted Alphabet   :  B
+Probability value    :  0.993149
+
+
+ 12:39:19.647465: 
+ 
+ 
+ 12:39:19.647465: 
+ 
+ 
+ 
+ 
+Photo Name           :  B568
+predicted Alphabet   : Unknown
+Probability value    :  0.715681
+
+
+ 12:39:21.161271: 
+ 
+ 
+ 12:39:21.161271: 
+ 
+ 
+ 
+ 
+Photo Name           :  B569
+predicted Alphabet   :  B
+Probability value    :  0.997511
+
+
+ 12:39:22.721679: 
+ 
+ 
+ 12:39:22.721679: 
+ 
+ 
+ 
+ 
+Photo Name           :  B570
+predicted Alphabet   :  B
+Probability value    :  0.999988
+
+
+ 12:39:24.237882: 
+ 
+ 
+ 12:39:24.237882: 
+ 
+ 
+ 
+ 
+Photo Name           :  B571
+predicted Alphabet   :  B
+Probability value    :  0.999655
+
+
+ 12:39:25.802687: 
+ 
+ 
+ 12:39:25.818287: 
+ 
+ 
+ 
+ 
+Photo Name           :  B572
+predicted Alphabet   :  R
+Probability value    :  0.979135
+
+
+ 12:39:27.396692: 
+ 
+ 
+ 12:39:27.396692: 
+ 
+ 
+ 
+ 
+Photo Name           :  B573
+predicted Alphabet   :  B
+Probability value    :  0.999945
+
+
+ 12:39:29.068498: 
+ 
+ 
+ 12:39:29.068498: 
+ 
+ 
+ 
+ 
+Photo Name           :  B574
+predicted Alphabet   :  B
+Probability value    :  0.991354
+
+
+ 12:39:30.693505: 
+ 
+ 
+ 12:39:30.693505: 
+ 
+ 
+ 
+ 
+Photo Name           :  B575
+predicted Alphabet   :  B
+Probability value    :  0.999268
+
+
+ 12:39:32.336909: 
+ 
+ 
+ 12:39:32.336909: 
+ 
+ 
+ 
+ 
+Photo Name           :  B576
+predicted Alphabet   :  B
+Probability value    :  0.999933
+
+
+ 12:39:34.006715: 
+ 
+ 
+ 12:39:34.006715: 
+ 
+ 
+ 
+ 
+Photo Name           :  B577
+predicted Alphabet   :  B
+Probability value    :  0.991603
+
+
+ 12:39:35.724520: 
+ 
+ 
+ 12:39:35.724520: 
+ 
+ 
+ 
+ 
+Photo Name           :  B578
+predicted Alphabet   :  B
+Probability value    :  0.996847
+
+
+ 12:39:37.427725: 
+ 
+ 
+ 12:39:37.427725: 
+ 
+ 
+ 
+ 
+Photo Name           :  B579
+predicted Alphabet   : B
+Probability value    :  0.876724
+
+
+ 12:39:39.265330: 
+ 
+ 
+ 12:39:39.265330: 
+ 
+ 
+ 
+ 
+Photo Name           :  B580
+predicted Alphabet   :  B
+Probability value    :  0.999225
+
+
+ 12:39:41.002933: 
+ 
+ 
+ 12:39:41.002933: 
+ 
+ 
+ 
+ 
+Photo Name           :  B581
+predicted Alphabet   :  B
+Probability value    :  0.995282
+
+
+ 12:39:42.818338: 
+ 
+ 
+ 12:39:42.818338: 
+ 
+ 
+ 
+ 
+Photo Name           :  B582
+predicted Alphabet   : Unknown
+Probability value    :  0.732234
+
+
+ 12:39:44.583141: 
+ 
+ 
+ 12:39:44.583141: 
+ 
+ 
+ 
+ 
+Photo Name           :  B583
+predicted Alphabet   :  B
+Probability value    :  0.901171
+
+
+ 12:39:46.379947: 
+ 
+ 
+ 12:39:46.379947: 
+ 
+ 
+ 
+ 
+Photo Name           :  B584
+predicted Alphabet   : B
+Probability value    :  0.631882
+
+
+ 12:39:48.207150: 
+ 
+ 
+ 12:39:48.207150: 
+ 
+ 
+ 
+ 
+Photo Name           :  B585
+predicted Alphabet   :  B
+Probability value    :  0.998753
+
+
+ 12:39:50.033353: 
+ 
+ 
+ 12:39:50.033353: 
+ 
+ 
+ 
+ 
+Photo Name           :  B586
+predicted Alphabet   :  B
+Probability value    :  0.999846
+
+
+ 12:39:51.861556: 
+ 
+ 
+ 12:39:51.861556: 
+ 
+ 
+ 
+ 
+Photo Name           :  B587
+predicted Alphabet   : Unknown
+Probability value    :  0.864102
+
+
+ 12:39:53.740362: 
+ 
+ 
+ 12:39:53.740362: 
+ 
+ 
+ 
+ 
+Photo Name           :  B588
+predicted Alphabet   :  B
+Probability value    :  0.999999
+
+
+ 12:39:55.650988: 
+ 
+ 
+ 12:39:55.650988: 
+ 
+ 
+ 
+ 
+Photo Name           :  B589
+predicted Alphabet   :  B
+Probability value    :  0.999457
+
+
+ 12:39:57.596603: 
+ 
+ 
+ 12:39:57.596603: 
+ 
+ 
+ 
+ 
+Photo Name           :  B590
+predicted Alphabet   : B
+Probability value    :  0.638188
+
+
+ 12:39:59.581609: 
+ 
+ 
+ 12:39:59.581609: 
+ 
+ 
+ 
+ 
+Photo Name           :  B591
+predicted Alphabet   : Unknown
+Probability value    :  0.53356
+
+
+ 12:40:01.584016: 
+ 
+ 
+ 12:40:01.584016: 
+ 
+ 
+ 
+ 
+Photo Name           :  B592
+predicted Alphabet   :  B
+Probability value    :  0.99944
+
+
+ 12:40:03.573022: 
+ 
+ 
+ 12:40:03.573022: 
+ 
+ 
+ 
+ 
+Photo Name           :  B593
+predicted Alphabet   :  B
+Probability value    :  0.990146
+
+
+ 12:40:05.610828: 
+ 
+ 
+ 12:40:05.610828: 
+ 
+ 
+ 
+ 
+Photo Name           :  B594
+predicted Alphabet   :  E
+Probability value    :  0.956219
+
+
+ 12:40:07.694434: 
+ 
+ 
+ 12:40:07.694434: 
+ 
+ 
+ 
+ 
+Photo Name           :  B595
+predicted Alphabet   :  B
+Probability value    :  0.999095
+
+
+ 12:40:09.740641: 
+ 
+ 
+ 12:40:09.740641: 
+ 
+ 
+ 
+ 
+Photo Name           :  B596
+predicted Alphabet   :  B
+Probability value    :  0.999997
+
+
+ 12:40:11.773248: 
+ 
+ 
+ 12:40:11.773248: 
+ 
+ 
+ 
+ 
+Photo Name           :  B597
+predicted Alphabet   :  B
+Probability value    :  0.999996
+
+
+ 12:40:13.818455: 
+ 
+ 
+ 12:40:13.818455: 
+ 
+ 
+ 
+ 
+Photo Name           :  B598
+predicted Alphabet   :  B
+Probability value    :  0.999476
+
+
+ 12:40:15.912264: 
+ 
+ 
+ 12:40:15.912264: 
+ 
+ 
+ 
+ 
+Photo Name           :  B599
+predicted Alphabet   :  B
+Probability value    :  0.989347
+
+
+ 12:40:18.161272: 
+ 
+ 
+ 12:40:18.161272: 
+ 
+ 
+ 
+ 
+Photo Name           :  B600
+predicted Alphabet   :  B
+Probability value    :  0.999997
+
+
+ 12:40:20.317477: 
+ 
+ 
+ 12:40:20.317477: 
+ 
+ 
+ 
+ 
+Photo Name           :  B601
+predicted Alphabet   :  B
+Probability value    :  0.999097
+
+
+ 12:40:22.490682: 
+ 
+ 
+ 12:40:22.490682: 
+ 
+ 
+ 
+ 
+Photo Name           :  B602
+predicted Alphabet   :  B
+Probability value    :  0.999968
+
+
+ 12:40:24.708891: 
+ 
+ 
+ 12:40:24.708891: 
+ 
+ 
+ 
+ 
+Photo Name           :  B603
+predicted Alphabet   :  B
+Probability value    :  0.999982
+
+
+ 12:40:26.923099: 
+ 
+ 
+ 12:40:26.923099: 
+ 
+ 
+ 
+ 
+Photo Name           :  B604
+predicted Alphabet   :  B
+Probability value    :  0.999613
+
+
+ 12:40:29.141303: 
+ 
+ 
+ 12:40:29.141303: 
+ 
+ 
+ 
+ 
+Photo Name           :  C562
+predicted Alphabet   :  C
+Probability value    :  0.989214
+
+
+ 12:40:31.913112: 
+ 
+ 
+ 12:40:31.913112: 
+ 
+ 
+ 
+ 
+Photo Name           :  C563
+predicted Alphabet   :  C
+Probability value    :  0.999176
+
+
+ 12:40:34.320120: 
+ 
+ 
+ 12:40:34.320120: 
+ 
+ 
+ 
+ 
+Photo Name           :  C564
+predicted Alphabet   :  C
+Probability value    :  0.991968
+
+
+ 12:40:36.710929: 
+ 
+ 
+ 12:40:36.710929: 
+ 
+ 
+ 
+ 
+Photo Name           :  C565
+predicted Alphabet   :  C
+Probability value    :  0.999972
+
+
+ 12:40:39.051342: 
+ 
+ 
+ 12:40:39.051342: 
+ 
+ 
+ 
+ 
+Photo Name           :  C566
+predicted Alphabet   :  C
+Probability value    :  0.999806
+
+
+ 12:40:41.410748: 
+ 
+ 
+ 12:40:41.410748: 
+ 
+ 
+ 
+ 
+Photo Name           :  C567
+predicted Alphabet   :  C
+Probability value    :  0.999767
+
+
+ 12:40:43.851357: 
+ 
+ 
+ 12:40:43.851357: 
+ 
+ 
+ 
+ 
+Photo Name           :  C568
+predicted Alphabet   : C
+Probability value    :  0.635038
+
+
+ 12:40:46.271362: 
+ 
+ 
+ 12:40:46.271362: 
+ 
+ 
+ 
+ 
+Photo Name           :  C569
+predicted Alphabet   :  C
+Probability value    :  0.999979
+
+
+ 12:40:48.912172: 
+ 
+ 
+ 12:40:48.912172: 
+ 
+ 
+ 
+ 
+Photo Name           :  C570
+predicted Alphabet   : Unknown
+Probability value    :  0.480039
+
+
+ 12:40:51.318180: 
+ 
+ 
+ 12:40:51.318180: 
+ 
+ 
+ 
+ 
+Photo Name           :  C571
+predicted Alphabet   :  C
+Probability value    :  0.999999
+
+
+ 12:40:53.787394: 
+ 
+ 
+ 12:40:53.787394: 
+ 
+ 
+ 
+ 
+Photo Name           :  C572
+predicted Alphabet   :  C
+Probability value    :  0.999999
+
+
+ 12:40:56.350000: 
+ 
+ 
+ 12:40:56.350000: 
+ 
+ 
+ 
+ 
+Photo Name           :  C573
+predicted Alphabet   :  C
+Probability value    :  0.998607
+
+
+ 12:40:59.018207: 
+ 
+ 
+ 12:40:59.018207: 
+ 
+ 
+ 
+ 
+Photo Name           :  C574
+predicted Alphabet   :  C
+Probability value    :  0.99327
+
+
+ 12:41:01.609414: 
+ 
+ 
+ 12:41:01.609414: 
+ 
+ 
+ 
+ 
+Photo Name           :  C575
+predicted Alphabet   :  C
+Probability value    :  0.999406
+
+
+ 12:41:04.179621: 
+ 
+ 
+ 12:41:04.179621: 
+ 
+ 
+ 
+ 
+Photo Name           :  C576
+predicted Alphabet   :  C
+Probability value    :  0.992039
+
+
+ 12:41:06.757630: 
+ 
+ 
+ 12:41:06.757630: 
+ 
+ 
+ 
+ 
+Photo Name           :  C577
+predicted Alphabet   :  C
+Probability value    :  1.0
+
+
+ 12:41:09.431843: 
+ 
+ 
+ 12:41:09.431843: 
+ 
+ 
+ 
+ 
+Photo Name           :  C578
+predicted Alphabet   : C
+Probability value    :  0.722802
+
+
+ 12:41:12.070851: 
+ 
+ 
+ 12:41:12.070851: 
+ 
+ 
+ 
+ 
+Photo Name           :  C579
+predicted Alphabet   :  C
+Probability value    :  0.99732
+
+
+ 12:41:14.782462: 
+ 
+ 
+ 12:41:14.782462: 
+ 
+ 
+ 
+ 
+Photo Name           :  C580
+predicted Alphabet   :  C
+Probability value    :  0.999987
+
+
+ 12:41:17.500867: 
+ 
+ 
+ 12:41:17.516467: 
+ 
+ 
+ 
+ 
+Photo Name           :  C581
+predicted Alphabet   :  C
+Probability value    :  0.954418
+
+
+ 12:41:20.481477: 
+ 
+ 
+ 12:41:20.481477: 
+ 
+ 
+ 
+ 
+Photo Name           :  C582
+predicted Alphabet   : C
+Probability value    :  0.64735
+
+
+ 12:41:23.185282: 
+ 
+ 
+ 12:41:23.185282: 
+ 
+ 
+ 
+ 
+Photo Name           :  C583
+predicted Alphabet   : Unknown
+Probability value    :  0.739963
+
+
+ 12:41:25.951487: 
+ 
+ 
+ 12:41:25.951487: 
+ 
+ 
+ 
+ 
+Photo Name           :  C584
+predicted Alphabet   :  C
+Probability value    :  0.999802
+
+
+ 12:41:28.719895: 
+ 
+ 
+ 12:41:28.719895: 
+ 
+ 
+ 
+ 
+Photo Name           :  C585
+predicted Alphabet   :  C
+Probability value    :  0.999985
+
+
+ 12:41:31.484100: 
+ 
+ 
+ 12:41:31.484100: 
+ 
+ 
+ 
+ 
+Photo Name           :  C586
+predicted Alphabet   :  C
+Probability value    :  0.999999
+
+
+ 12:41:34.286906: 
+ 
+ 
+ 12:41:34.286906: 
+ 
+ 
+ 
+ 
+Photo Name           :  C587
+predicted Alphabet   : Unknown
+Probability value    :  0.69947
+
+
+ 12:41:37.172118: 
+ 
+ 
+ 12:41:37.172118: 
+ 
+ 
+ 
+ 
+Photo Name           :  C588
+predicted Alphabet   :  C
+Probability value    :  0.994658
+
+
+ 12:41:40.100130: 
+ 
+ 
+ 12:41:40.100130: 
+ 
+ 
+ 
+ 
+Photo Name           :  C589
+predicted Alphabet   :  C
+Probability value    :  0.994779
+
+
+ 12:41:43.042539: 
+ 
+ 
+ 12:41:43.058139: 
+ 
+ 
+ 
+ 
+Photo Name           :  C590
+predicted Alphabet   :  C
+Probability value    :  0.963125
+
+
+ 12:41:45.907547: 
+ 
+ 
+ 12:41:45.907547: 
+ 
+ 
+ 
+ 
+Photo Name           :  C591
+predicted Alphabet   : C
+Probability value    :  0.633782
+
+
+ 12:41:48.834757: 
+ 
+ 
+ 12:41:48.834757: 
+ 
+ 
+ 
+ 
+Photo Name           :  C592
+predicted Alphabet   :  C
+Probability value    :  0.931585
+
+
+ 12:41:52.391771: 
+ 
+ 
+ 12:41:52.391771: 
+ 
+ 
+ 
+ 
+Photo Name           :  C593
+predicted Alphabet   :  C
+Probability value    :  0.996657
+
+
+ 12:41:55.352978: 
+ 
+ 
+ 12:41:55.352978: 
+ 
+ 
+ 
+ 
+Photo Name           :  C594
+predicted Alphabet   :  C
+Probability value    :  0.999933
+
+
+ 12:41:58.371784: 
+ 
+ 
+ 12:41:58.371784: 
+ 
+ 
+ 
+ 
+Photo Name           :  C595
+predicted Alphabet   :  C
+Probability value    :  0.995363
+
+
+ 12:42:01.336595: 
+ 
+ 
+ 12:42:01.336595: 
+ 
+ 
+ 
+ 
+Photo Name           :  C596
+predicted Alphabet   :  C
+Probability value    :  0.999987
+
+
+ 12:42:04.303803: 
+ 
+ 
+ 12:42:04.303803: 
+ 
+ 
+ 
+ 
+Photo Name           :  C597
+predicted Alphabet   : Unknown
+Probability value    :  0.86125
+
+
+ 12:42:07.284814: 
+ 
+ 
+ 12:42:07.284814: 
+ 
+ 
+ 
+ 
+Photo Name           :  C598
+predicted Alphabet   :  C
+Probability value    :  0.999963
+
+
+ 12:42:10.315025: 
+ 
+ 
+ 12:42:10.315025: 
+ 
+ 
+ 
+ 
+Photo Name           :  C599
+predicted Alphabet   :  C
+Probability value    :  0.997566
+
+
+ 12:42:13.487034: 
+ 
+ 
+ 12:42:13.487034: 
+ 
+ 
+ 
+ 
+Photo Name           :  C600
+predicted Alphabet   :  C
+Probability value    :  0.999955
+
+
+ 12:42:16.745047: 
+ 
+ 
+ 12:42:16.745047: 
+ 
+ 
+ 
+ 
+Photo Name           :  C601
+predicted Alphabet   :  C
+Probability value    :  1.0
+
+
+ 12:42:19.948053: 
+ 
+ 
+ 12:42:19.948053: 
+ 
+ 
+ 
+ 
+Photo Name           :  C602
+predicted Alphabet   :  C
+Probability value    :  0.998082
+
+
+ 12:42:23.134463: 
+ 
+ 
+ 12:42:23.134463: 
+ 
+ 
+ 
+ 
+Photo Name           :  C603
+predicted Alphabet   : C
+Probability value    :  0.895141
+
+
+ 12:42:26.334072: 
+ 
+ 
+ 12:42:26.334072: 
+ 
+ 
+ 
+ 
+Photo Name           :  C604
+predicted Alphabet   :  C
+Probability value    :  0.999918
+
+
+ 12:42:29.506284: 
+ 
+ 
+ 12:42:29.506284: 
+ 
+ 
+ 
+ 
+Photo Name           :  C605
+predicted Alphabet   :  C
+Probability value    :  0.999202
+
+
+ 12:42:32.690896: 
+ 
+ 
+ 12:42:32.690896: 
+ 
+ 
+ 
+ 
+Photo Name           :  C606
+predicted Alphabet   :  C
+Probability value    :  0.999503
+
+
+ 12:42:35.925706: 
+ 
+ 
+ 12:42:35.925706: 
+ 
+ 
+ 
+ 
+Photo Name           :  C607
+predicted Alphabet   :  Y
+Probability value    :  0.970618
+
+
+ 12:42:39.198116: 
+ 
+ 
+ 12:42:39.198116: 
+ 
+ 
+ 
+ 
+Photo Name           :  C608
+predicted Alphabet   : C
+Probability value    :  0.760798
+
+
+ 12:42:42.522927: 
+ 
+ 
+ 12:42:42.522927: 
+ 
+ 
+ 
+ 
+Photo Name           :  C609
+predicted Alphabet   :  C
+Probability value    :  0.993768
+
+
+ 12:42:45.873337: 
+ 
+ 
+ 12:42:45.873337: 
+ 
+ 
+ 
+ 
+Photo Name           :  C610
+predicted Alphabet   :  C
+Probability value    :  0.999903
+
+
+ 12:42:49.380348: 
+ 
+ 
+ 12:42:49.380348: 
+ 
+ 
+ 
+ 
+Photo Name           :  C611
+predicted Alphabet   :  C
+Probability value    :  0.999917
+
+
+ 12:42:53.171478: 
+ 
+ 
+ 12:42:53.171478: 
+ 
+ 
+ 
+ 
+Photo Name           :  D562
+predicted Alphabet   : D
+Probability value    :  0.650177
+
+
+ 12:42:56.794900: 
+ 
+ 
+ 12:42:56.794900: 
+ 
+ 
+ 
+ 
+Photo Name           :  D563
+predicted Alphabet   :  D
+Probability value    :  0.999908
+
+
+ 12:43:00.248326: 
+ 
+ 
+ 12:43:00.248326: 
+ 
+ 
+ 
+ 
+Photo Name           :  D564
+predicted Alphabet   : D
+Probability value    :  0.644397
+
+
+ 12:43:03.988251: 
+ 
+ 
+ 12:43:03.988251: 
+ 
+ 
+ 
+ 
+Photo Name           :  D565
+predicted Alphabet   :  D
+Probability value    :  0.996838
+
+
+ 12:43:07.662947: 
+ 
+ 
+ 12:43:07.662947: 
+ 
+ 
+ 
+ 
+Photo Name           :  D566
+predicted Alphabet   :  D
+Probability value    :  0.999798
+
+
+ 12:43:11.684320: 
+ 
+ 
+ 12:43:11.684320: 
+ 
+ 
+ 
+ 
+Photo Name           :  D567
+predicted Alphabet   :  D
+Probability value    :  0.999999
+
+
+ 12:43:15.347589: 
+ 
+ 
+ 12:43:15.347589: 
+ 
+ 
+ 
+ 
+Photo Name           :  D568
+predicted Alphabet   :  D
+Probability value    :  0.969044
+
+
+ 12:43:19.260946: 
+ 
+ 
+ 12:43:19.262946: 
+ 
+ 
+ 
+ 
+Photo Name           :  D569
+predicted Alphabet   :  D
+Probability value    :  0.997874
+
+
+ 12:43:23.197361: 
+ 
+ 
+ 12:43:23.198361: 
+ 
+ 
+ 
+ 
+Photo Name           :  D570
+predicted Alphabet   :  D
+Probability value    :  0.999995
+
+
+ 12:43:27.128758: 
+ 
+ 
+ 12:43:27.128758: 
+ 
+ 
+ 
+ 
+Photo Name           :  D571
+predicted Alphabet   :  D
+Probability value    :  0.992173
+
+
+ 12:43:30.762806: 
+ 
+ 
+ 12:43:30.762806: 
+ 
+ 
+ 
+ 
+Photo Name           :  D572
+predicted Alphabet   :  D
+Probability value    :  0.999997
+
+
+ 12:43:34.411820: 
+ 
+ 
+ 12:43:34.411820: 
+ 
+ 
+ 
+ 
+Photo Name           :  D573
+predicted Alphabet   :  D
+Probability value    :  0.99997
+
+
+ 12:43:38.039432: 
+ 
+ 
+ 12:43:38.039432: 
+ 
+ 
+ 
+ 
+Photo Name           :  D574
+predicted Alphabet   :  D
+Probability value    :  0.999097
+
+
+ 12:43:41.743493: 
+ 
+ 
+ 12:43:41.743493: 
+ 
+ 
+ 
+ 
+Photo Name           :  D575
+predicted Alphabet   : D
+Probability value    :  0.768952
+
+
+ 12:43:45.694598: 
+ 
+ 
+ 12:43:45.694598: 
+ 
+ 
+ 
+ 
+Photo Name           :  D576
+predicted Alphabet   :  D
+Probability value    :  0.915113
+
+
+ 12:43:49.731764: 
+ 
+ 
+ 12:43:49.731764: 
+ 
+ 
+ 
+ 
+Photo Name           :  D577
+predicted Alphabet   : Unknown
+Probability value    :  0.667689
+
+
+ 12:43:53.530605: 
+ 
+ 
+ 12:43:53.530605: 
+ 
+ 
+ 
+ 
+Photo Name           :  D578
+predicted Alphabet   :  B
+Probability value    :  0.998607
+
+
+ 12:43:57.529502: 
+ 
+ 
+ 12:43:57.529502: 
+ 
+ 
+ 
+ 
+Photo Name           :  D579
+predicted Alphabet   : D
+Probability value    :  0.646472
+
+
+ 12:44:01.392778: 
+ 
+ 
+ 12:44:01.392778: 
+ 
+ 
+ 
+ 
+Photo Name           :  D580
+predicted Alphabet   : Unknown
+Probability value    :  0.86709
+
+
+ 12:44:05.157389: 
+ 
+ 
+ 12:44:05.157389: 
+ 
+ 
+ 
+ 
+Photo Name           :  D581
+predicted Alphabet   :  P
+Probability value    :  0.972094
+
+
+ 12:44:08.920410: 
+ 
+ 
+ 12:44:08.920410: 
+ 
+ 
+ 
+ 
+Photo Name           :  D582
+predicted Alphabet   : D
+Probability value    :  0.758138
+
+
+ 12:44:12.692224: 
+ 
+ 
+ 12:44:12.692224: 
+ 
+ 
+ 
+ 
+Photo Name           :  D583
+predicted Alphabet   :  D
+Probability value    :  0.959889
+
+
+ 12:44:16.556035: 
+ 
+ 
+ 12:44:16.556035: 
+ 
+ 
+ 
+ 
+Photo Name           :  D584
+predicted Alphabet   :  D
+Probability value    :  1.0
+
+
+ 12:44:20.527094: 
+ 
+ 
+ 12:44:20.527094: 
+ 
+ 
+ 
+ 
+Photo Name           :  D585
+predicted Alphabet   :  D
+Probability value    :  0.999171
+
+
+ 12:44:24.425303: 
+ 
+ 
+ 12:44:24.425303: 
+ 
+ 
+ 
+ 
+Photo Name           :  D586
+predicted Alphabet   :  D
+Probability value    :  0.992188
+
+
+ 12:44:28.330715: 
+ 
+ 
+ 12:44:28.330715: 
+ 
+ 
+ 
+ 
+Photo Name           :  D587
+predicted Alphabet   :  D
+Probability value    :  0.999642
+
+
+ 12:44:32.274927: 
+ 
+ 
+ 12:44:32.274927: 
+ 
+ 
+ 
+ 
+Photo Name           :  D588
+predicted Alphabet   :  D
+Probability value    :  0.990287
+
+
+ 12:44:36.212738: 
+ 
+ 
+ 12:44:36.212738: 
+ 
+ 
+ 
+ 
+Photo Name           :  D589
+predicted Alphabet   :  D
+Probability value    :  0.981799
+
+
+ 12:44:41.159753: 
+ 
+ 
+ 12:44:41.159753: 
+ 
+ 
+ 
+ 
+Photo Name           :  D590
+predicted Alphabet   : Unknown
+Probability value    :  0.583101
+
+
+ 12:44:45.113366: 
+ 
+ 
+ 12:44:45.113366: 
+ 
+ 
+ 
+ 
+Photo Name           :  D591
+predicted Alphabet   :  D
+Probability value    :  0.959696
+
+
+ 12:44:49.129578: 
+ 
+ 
+ 12:44:49.129578: 
+ 
+ 
+ 
+ 
+Photo Name           :  D592
+predicted Alphabet   : D
+Probability value    :  0.863416
+
+
+ 12:44:53.160196: 
+ 
+ 
+ 12:44:53.160196: 
+ 
+ 
+ 
+ 
+Photo Name           :  D593
+predicted Alphabet   : Unknown
+Probability value    :  0.727223
+
+
+ 12:44:57.145410: 
+ 
+ 
+ 12:44:57.145410: 
+ 
+ 
+ 
+ 
+Photo Name           :  D594
+predicted Alphabet   : D
+Probability value    :  0.569861
+
+
+ 12:45:01.355064: 
+ 
+ 
+ 12:45:01.355064: 
+ 
+ 
+ 
+ 
+Photo Name           :  D595
+predicted Alphabet   :  P
+Probability value    :  0.928187
+
+
+ 12:45:05.557912: 
+ 
+ 
+ 12:45:05.557912: 
+ 
+ 
+ 
+ 
+Photo Name           :  D596
+predicted Alphabet   : Unknown
+Probability value    :  0.839742
+
+
+ 12:45:09.707329: 
+ 
+ 
+ 12:45:09.707329: 
+ 
+ 
+ 
+ 
+Photo Name           :  D597
+predicted Alphabet   :  D
+Probability value    :  0.996794
+
+
+ 12:45:13.848738: 
+ 
+ 
+ 12:45:13.848738: 
+ 
+ 
+ 
+ 
+Photo Name           :  D598
+predicted Alphabet   : D
+Probability value    :  0.496298
+
+
+ 12:45:23.728965: 
+ 
+ 
+ 12:45:23.728965: 
+ 
+ 
+ 
+ 
+Photo Name           :  D599
+predicted Alphabet   :  O
+Probability value    :  0.996691
+
+
+ 12:45:27.932386: 
+ 
+ 
+ 12:45:27.932386: 
+ 
+ 
+ 
+ 
+Photo Name           :  D600
+predicted Alphabet   : Unknown
+Probability value    :  0.363521
+
+
+ 12:45:32.088394: 
+ 
+ 
+ 12:45:32.088394: 
+ 
+ 
+ 
+ 
+Photo Name           :  D601
+predicted Alphabet   : D
+Probability value    :  0.728073
+
+
+ 12:45:36.526807: 
+ 
+ 
+ 12:45:36.526807: 
+ 
+ 
+ 
+ 
+Photo Name           :  D602
+predicted Alphabet   :  O
+Probability value    :  0.990705
+
+
+ 12:45:40.986514: 
+ 
+ 
+ 12:45:40.986514: 
+ 
+ 
+ 
+ 
+Photo Name           :  D603
+predicted Alphabet   :  D
+Probability value    :  0.998055
+
+
+ 12:45:45.329982: 
+ 
+ 
+ 12:45:45.329982: 
+ 
+ 
+ 
+ 
+Photo Name           :  D604
+predicted Alphabet   : Unknown
+Probability value    :  0.869601
+
+
+ 12:45:49.695649: 
+ 
+ 
+ 12:45:49.695649: 
+ 
+ 
+ 
+ 
+Photo Name           :  D605
+predicted Alphabet   :  D
+Probability value    :  0.994256
+
+
+ 12:45:54.362467: 
+ 
+ 
+ 12:45:54.362467: 
+ 
+ 
+ 
+ 
+Photo Name           :  D606
+predicted Alphabet   :  D
+Probability value    :  0.956213
+
+
+ 12:45:59.201087: 
+ 
+ 
+ 12:45:59.201087: 
+ 
+ 
+ 
+ 
+Photo Name           :  D607
+predicted Alphabet   :  D
+Probability value    :  0.999994
+
+
+ 12:46:05.041899: 
+ 
+ 
+ 12:46:05.041899: 
+ 
+ 
+ 
+ 
+Photo Name           :  D608
+predicted Alphabet   :  D
+Probability value    :  0.943855
+
+
+ 12:46:10.886310: 
+ 
+ 
+ 12:46:10.886310: 
+ 
+ 
+ 
+ 
+Photo Name           :  D609
+predicted Alphabet   :  D
+Probability value    :  0.999564
+
+
+ 12:46:16.344630: 
+ 
+ 
+ 12:46:16.345630: 
+ 
+ 
+ 
+ 
+Photo Name           :  D610
+predicted Alphabet   :  D
+Probability value    :  0.967541
+
+
+ 12:46:22.133508: 
+ 
+ 
+ 12:46:22.133508: 
+ 
+ 
+ 
+ 
+Photo Name           :  D611
+predicted Alphabet   :  D
+Probability value    :  0.990225
+
+
+ 12:46:27.933194: 
+ 
+ 
+ 12:46:27.933194: 
+ 
+ 
+ 
+ 
+Photo Name           :  E562
+predicted Alphabet   :  E
+Probability value    :  0.992962
+
+
+ 12:46:34.021271: 
+ 
+ 
+ 12:46:34.021271: 
+ 
+ 
+ 
+ 
+Photo Name           :  E563
+predicted Alphabet   :  E
+Probability value    :  0.995077
+
+
+ 12:46:40.148987: 
+ 
+ 
+ 12:46:40.148987: 
+ 
+ 
+ 
+ 
+Photo Name           :  E564
+predicted Alphabet   :  E
+Probability value    :  1.0
+
+
+ 12:46:46.592967: 
+ 
+ 
+ 12:46:46.592967: 
+ 
+ 
+ 
+ 
+Photo Name           :  E565
+predicted Alphabet   :  E
+Probability value    :  0.999989
+
+
+ 12:46:53.069867: 
+ 
+ 
+ 12:46:53.070867: 
+ 
+ 
+ 
+ 
+Photo Name           :  E566
+predicted Alphabet   :  I
+Probability value    :  0.999906
+
+
+ 12:46:59.287954: 
+ 
+ 
+ 12:46:59.287954: 
+ 
+ 
+ 
+ 
+Photo Name           :  E567
+predicted Alphabet   :  E
+Probability value    :  0.99968
+
+
+ 12:47:05.767238: 
+ 
+ 
+ 12:47:05.767238: 
+ 
+ 
+ 
+ 
+Photo Name           :  E568
+predicted Alphabet   : D
+Probability value    :  0.790923
+
+
+ 12:47:12.103116: 
+ 
+ 
+ 12:47:12.103116: 
+ 
+ 
+ 
+ 
+Photo Name           :  E569
+predicted Alphabet   : E
+Probability value    :  0.708515
+
+
+ 12:47:18.767203: 
+ 
+ 
+ 12:47:18.767203: 
+ 
+ 
+ 
+ 
+Photo Name           :  E570
+predicted Alphabet   : Unknown
+Probability value    :  0.691684
+
+
+ 12:47:25.473896: 
+ 
+ 
+ 12:47:25.473896: 
+ 
+ 
+ 
+ 
+Photo Name           :  E571
+predicted Alphabet   :  E
+Probability value    :  0.999988
+
+
+ 12:47:31.588584: 
+ 
+ 
+ 12:47:31.588584: 
+ 
+ 
+ 
+ 
+Photo Name           :  E572
+predicted Alphabet   : E
+Probability value    :  0.502023
+
+
+ 12:47:37.994879: 
+ 
+ 
+ 12:47:37.994879: 
+ 
+ 
+ 
+ 
+Photo Name           :  E573
+predicted Alphabet   :  E
+Probability value    :  0.999939
+
+
+ 12:47:45.053780: 
+ 
+ 
+ 12:47:45.053780: 
+ 
+ 
+ 
+ 
+Photo Name           :  E574
+predicted Alphabet   :  E
+Probability value    :  0.999431
+
+
+ 12:47:51.992301: 
+ 
+ 
+ 12:47:51.992301: 
+ 
+ 
+ 
+ 
+Photo Name           :  E575
+predicted Alphabet   : Unknown
+Probability value    :  0.851743
+
+
+ 12:47:59.425812: 
+ 
+ 
+ 12:47:59.425812: 
+ 
+ 
+ 
+ 
+Photo Name           :  E576
+predicted Alphabet   :  E
+Probability value    :  0.999997
+
+
+ 12:48:06.971527: 
+ 
+ 
+ 12:48:06.971527: 
+ 
+ 
+ 
+ 
+Photo Name           :  E577
+predicted Alphabet   :  E
+Probability value    :  0.9998
+
+
+ 12:48:14.684079: 
+ 
+ 
+ 12:48:14.684079: 
+ 
+ 
+ 
+ 
+Photo Name           :  E578
+predicted Alphabet   :  E
+Probability value    :  0.998116
+
+
+ 12:48:22.649542: 
+ 
+ 
+ 12:48:22.649542: 
+ 
+ 
+ 
+ 
+Photo Name           :  E579
+predicted Alphabet   :  E
+Probability value    :  0.999994
+
+
+ 12:48:30.420162: 
+ 
+ 
+ 12:48:30.420162: 
+ 
+ 
+ 
+ 
+Photo Name           :  E580
+predicted Alphabet   :  E
+Probability value    :  0.997881
+
+
+ 12:48:38.614194: 
+ 
+ 
+ 12:48:38.614194: 
+ 
+ 
+ 
+ 
+Photo Name           :  E581
+predicted Alphabet   :  E
+Probability value    :  1.0
+
+
+ 12:48:46.771417: 
+ 
+ 
+ 12:48:46.771417: 
+ 
+ 
+ 
+ 
+Photo Name           :  E582
+predicted Alphabet   : E
+Probability value    :  0.687211
+
+
+ 12:48:55.476220: 
+ 
+ 
+ 12:48:55.476220: 
+ 
+ 
+ 
+ 
+Photo Name           :  E583
+predicted Alphabet   :  E
+Probability value    :  0.993031
+
+
+ 12:49:03.967648: 
+ 
+ 
+ 12:49:03.983248: 
+ 
+ 
+ 
+ 
+Photo Name           :  E584
+predicted Alphabet   :  E
+Probability value    :  0.999994
+
+
+ 12:49:12.645880: 
+ 
+ 
+ 12:49:12.647880: 
+ 
+ 
+ 
+ 
+Photo Name           :  E585
+predicted Alphabet   :  E
+Probability value    :  0.957557
+
+
+ 12:49:20.424699: 
+ 
+ 
+ 12:49:20.424699: 
+ 
+ 
+ 
+ 
+Photo Name           :  E586
+predicted Alphabet   :  E
+Probability value    :  0.99949
+
+
+ 12:49:25.594713: 
+ 
+ 
+ 12:49:25.594713: 
+ 
+ 
+ 
+ 
+Photo Name           :  E587
+predicted Alphabet   :  E
+Probability value    :  0.999982
+
+
+ 12:49:31.297526: 
+ 
+ 
+ 12:49:31.297526: 
+ 
+ 
+ 
+ 
+Photo Name           :  E588
+predicted Alphabet   :  E
+Probability value    :  0.999971
+
+
+ 12:49:36.621143: 
+ 
+ 
+ 12:49:36.621143: 
+ 
+ 
+ 
+ 
+Photo Name           :  E589
+predicted Alphabet   :  E
+Probability value    :  0.999607
+
+
+ 12:49:41.830960: 
+ 
+ 
+ 12:49:41.830960: 
+ 
+ 
+ 
+ 
+Photo Name           :  E590
+predicted Alphabet   :  E
+Probability value    :  0.999509
+
+
+ 12:49:47.082376: 
+ 
+ 
+ 12:49:47.082376: 
+ 
+ 
+ 
+ 
+Photo Name           :  E591
+predicted Alphabet   :  E
+Probability value    :  0.997088
+
+
+ 12:49:52.288186: 
+ 
+ 
+ 12:49:52.288186: 
+ 
+ 
+ 
+ 
+Photo Name           :  E592
+predicted Alphabet   :  E
+Probability value    :  0.999719
+
+
+ 12:49:57.814454: 
+ 
+ 
+ 12:49:57.814454: 
+ 
+ 
+ 
+ 
+Photo Name           :  E593
+predicted Alphabet   :  E
+Probability value    :  0.999301
+
+
+ 12:50:03.348235: 
+ 
+ 
+ 12:50:03.348235: 
+ 
+ 
+ 
+ 
+Photo Name           :  E594
+predicted Alphabet   :  E
+Probability value    :  0.999975
+
+
+ 12:50:08.915562: 
+ 
+ 
+ 12:50:08.916562: 
+ 
+ 
+ 
+ 
+Photo Name           :  E595
+predicted Alphabet   :  E
+Probability value    :  0.999997
+
+
+ 12:50:14.400607: 
+ 
+ 
+ 12:50:14.400607: 
+ 
+ 
+ 
+ 
+Photo Name           :  E596
+predicted Alphabet   :  E
+Probability value    :  0.992967
+
+
+ 12:50:19.979826: 
+ 
+ 
+ 12:50:19.979826: 
+ 
+ 
+ 
+ 
+Photo Name           :  E597
+predicted Alphabet   :  E
+Probability value    :  0.999126
+
+
+ 12:50:25.415843: 
+ 
+ 
+ 12:50:25.415843: 
+ 
+ 
+ 
+ 
+Photo Name           :  E598
+predicted Alphabet   :  E
+Probability value    :  0.976542
+
+
+ 12:50:31.166464: 
+ 
+ 
+ 12:50:31.166464: 
+ 
+ 
+ 
+ 
+Photo Name           :  E599
+predicted Alphabet   :  E
+Probability value    :  0.97279
+
+
+ 12:50:36.619883: 
+ 
+ 
+ 12:50:36.619883: 
+ 
+ 
+ 
+ 
+Photo Name           :  E600
+predicted Alphabet   :  E
+Probability value    :  0.999225
+
+
+ 12:50:41.994103: 
+ 
+ 
+ 12:50:41.994103: 
+ 
+ 
+ 
+ 
+Photo Name           :  E601
+predicted Alphabet   : Unknown
+Probability value    :  0.667955
+
+
+ 12:50:47.399722: 
+ 
+ 
+ 12:50:47.399722: 
+ 
+ 
+ 
+ 
+Photo Name           :  E602
+predicted Alphabet   : E
+Probability value    :  0.483664
+
+
+ 12:50:53.413140: 
+ 
+ 
+ 12:50:53.413140: 
+ 
+ 
+ 
+ 
+Photo Name           :  E603
+predicted Alphabet   :  E
+Probability value    :  0.955814
+
+
+ 12:50:59.588558: 
+ 
+ 
+ 12:50:59.588558: 
+ 
+ 
+ 
+ 
+Photo Name           :  E604
+predicted Alphabet   : Unknown
+Probability value    :  0.709693
+
+
+ 12:51:06.032797: 
+ 
+ 
+ 12:51:06.032797: 
+ 
+ 
+ 
+ 
+Photo Name           :  E605
+predicted Alphabet   :  E
+Probability value    :  0.964599
+
+
+ 12:51:11.845408: 
+ 
+ 
+ 12:51:11.845408: 
+ 
+ 
+ 
+ 
+Photo Name           :  E606
+predicted Alphabet   :  E
+Probability value    :  0.940443
+
+
+ 12:51:17.713023: 
+ 
+ 
+ 12:51:17.713023: 
+ 
+ 
+ 
+ 
+Photo Name           :  E607
+predicted Alphabet   :  E
+Probability value    :  1.0
+
+
+ 12:51:23.348245: 
+ 
+ 
+ 12:51:23.348245: 
+ 
+ 
+ 
+ 
+Photo Name           :  E608
+predicted Alphabet   :  E
+Probability value    :  0.999998
+
+
+ 12:51:29.097258: 
+ 
+ 
+ 12:51:29.097258: 
+ 
+ 
+ 
+ 
+Photo Name           :  E609
+predicted Alphabet   :  E
+Probability value    :  0.999952
+
+
+ 12:51:34.805476: 
+ 
+ 
+ 12:51:34.805476: 
+ 
+ 
+ 
+ 
+Photo Name           :  E610
+predicted Alphabet   :  E
+Probability value    :  1.0
+
+
+ 12:51:40.447095: 
+ 
+ 
+ 12:51:40.447095: 
+ 
+ 
+ 
+ 
+Photo Name           :  E611
+predicted Alphabet   :  E
+Probability value    :  0.998567
+
+
+ 12:51:46.175715: 
+ 
+ 
+ 12:51:46.175715: 
+ 
+ 
+ 
+ 
+Photo Name           :  F562
+predicted Alphabet   :  F
+Probability value    :  0.976051
+
+
+ 12:51:52.056128: 
+ 
+ 
+ 12:51:52.056128: 
+ 
+ 
+ 
+ 
+Photo Name           :  F563
+predicted Alphabet   :  F
+Probability value    :  0.933675
+
+
+ 12:51:58.076346: 
+ 
+ 
+ 12:51:58.076346: 
+ 
+ 
+ 
+ 
+Photo Name           :  F564
+predicted Alphabet   :  F
+Probability value    :  0.910953
+
+
+ 12:52:03.998960: 
+ 
+ 
+ 12:52:03.998960: 
+ 
+ 
+ 
+ 
+Photo Name           :  F565
+predicted Alphabet   : E
+Probability value    :  0.616103
+
+
+ 12:52:09.810976: 
+ 
+ 
+ 12:52:09.810976: 
+ 
+ 
+ 
+ 
+Photo Name           :  F566
+predicted Alphabet   : Unknown
+Probability value    :  0.805667
+
+
+ 12:52:15.662795: 
+ 
+ 
+ 12:52:15.662795: 
+ 
+ 
+ 
+ 
+Photo Name           :  F567
+predicted Alphabet   :  F
+Probability value    :  0.999935
+
+
+ 12:52:21.842212: 
+ 
+ 
+ 12:52:21.842212: 
+ 
+ 
+ 
+ 
+Photo Name           :  F568
+predicted Alphabet   :  P
+Probability value    :  0.902573
+
+
+ 12:52:27.803426: 
+ 
+ 
+ 12:52:27.803426: 
+ 
+ 
+ 
+ 
+Photo Name           :  F569
+predicted Alphabet   :  F
+Probability value    :  0.980155
+
+
+ 12:52:33.773247: 
+ 
+ 
+ 12:52:33.773247: 
+ 
+ 
+ 
+ 
+Photo Name           :  F570
+predicted Alphabet   :  F
+Probability value    :  0.917807
+
+
+ 12:52:39.957461: 
+ 
+ 
+ 12:52:39.957461: 
+ 
+ 
+ 
+ 
+Photo Name           :  F571
+predicted Alphabet   :  F
+Probability value    :  0.999956
+
+
+ 12:52:46.083879: 
+ 
+ 
+ 12:52:46.083879: 
+ 
+ 
+ 
+ 
+Photo Name           :  F572
+predicted Alphabet   :  F
+Probability value    :  0.990846
+
+
+ 12:52:52.069500: 
+ 
+ 
+ 12:52:52.069500: 
+ 
+ 
+ 
+ 
+Photo Name           :  F573
+predicted Alphabet   :  F
+Probability value    :  0.99803
+
+
+ 12:52:58.224324: 
+ 
+ 
+ 12:52:58.224324: 
+ 
+ 
+ 
+ 
+Photo Name           :  F574
+predicted Alphabet   :  F
+Probability value    :  0.998383
+
+
+ 12:53:04.418344: 
+ 
+ 
+ 12:53:04.418344: 
+ 
+ 
+ 
+ 
+Photo Name           :  F575
+predicted Alphabet   : F
+Probability value    :  0.687309
+
+
+ 12:53:10.535559: 
+ 
+ 
+ 12:53:10.535559: 
+ 
+ 
+ 
+ 
+Photo Name           :  F576
+predicted Alphabet   : Unknown
+Probability value    :  0.742629
+
+
+ 12:53:16.888776: 
+ 
+ 
+ 12:53:16.888776: 
+ 
+ 
+ 
+ 
+Photo Name           :  F577
+predicted Alphabet   : F
+Probability value    :  0.741833
+
+
+ 12:53:23.121196: 
+ 
+ 
+ 12:53:23.121196: 
+ 
+ 
+ 
+ 
+Photo Name           :  F578
+predicted Alphabet   :  F
+Probability value    :  0.935398
+
+
+ 12:53:29.381611: 
+ 
+ 
+ 12:53:29.381611: 
+ 
+ 
+ 
+ 
+Photo Name           :  F579
+predicted Alphabet   : Unknown
+Probability value    :  0.884931
+
+
+ 12:53:35.723231: 
+ 
+ 
+ 12:53:35.723231: 
+ 
+ 
+ 
+ 
+Photo Name           :  F580
+predicted Alphabet   :  F
+Probability value    :  0.944401
+
+
+ 12:53:41.941051: 
+ 
+ 
+ 12:53:41.941051: 
+ 
+ 
+ 
+ 
+Photo Name           :  F581
+predicted Alphabet   :  F
+Probability value    :  0.990259
+
+
+ 12:53:48.229671: 
+ 
+ 
+ 12:53:48.229671: 
+ 
+ 
+ 
+ 
+Photo Name           :  F582
+predicted Alphabet   :  F
+Probability value    :  0.99531
+
+
+ 12:53:54.640888: 
+ 
+ 
+ 12:53:54.640888: 
+ 
+ 
+ 
+ 
+Photo Name           :  F583
+predicted Alphabet   :  F
+Probability value    :  0.944262
+
+
+ 12:54:01.012928: 
+ 
+ 
+ 12:54:01.013929: 
+ 
+ 
+ 
+ 
+Photo Name           :  F584
+predicted Alphabet   :  F
+Probability value    :  0.933494
+
+
+ 12:54:07.576463: 
+ 
+ 
+ 12:54:07.576463: 
+ 
+ 
+ 
+ 
+Photo Name           :  F585
+predicted Alphabet   :  F
+Probability value    :  0.938182
+
+
+ 12:54:14.028087: 
+ 
+ 
+ 12:54:14.028087: 
+ 
+ 
+ 
+ 
+Photo Name           :  F586
+predicted Alphabet   :  F
+Probability value    :  0.985587
+
+
+ 12:54:20.349098: 
+ 
+ 
+ 12:54:20.349098: 
+ 
+ 
+ 
+ 
+Photo Name           :  F587
+predicted Alphabet   :  F
+Probability value    :  0.999828
+
+
+ 12:54:26.771718: 
+ 
+ 
+ 12:54:26.771718: 
+ 
+ 
+ 
+ 
+Photo Name           :  F588
+predicted Alphabet   : F
+Probability value    :  0.53423
+
+
+ 12:54:33.240337: 
+ 
+ 
+ 12:54:33.240337: 
+ 
+ 
+ 
+ 
+Photo Name           :  F589
+predicted Alphabet   :  F
+Probability value    :  0.987793
+
+
+ 12:54:39.590156: 
+ 
+ 
+ 12:54:39.590156: 
+ 
+ 
+ 
+ 
+Photo Name           :  F590
+predicted Alphabet   : Unknown
+Probability value    :  0.775072
+
+
+ 12:54:46.085574: 
+ 
+ 
+ 12:54:46.085574: 
+ 
+ 
+ 
+ 
+Photo Name           :  F591
+predicted Alphabet   :  F
+Probability value    :  0.950945
+
+
+ 12:54:52.513790: 
+ 
+ 
+ 12:54:52.513790: 
+ 
+ 
+ 
+ 
+Photo Name           :  F592
+predicted Alphabet   :  F
+Probability value    :  0.99532
+
+
+ 12:54:59.052606: 
+ 
+ 
+ 12:54:59.052606: 
+ 
+ 
+ 
+ 
+Photo Name           :  F593
+predicted Alphabet   :  F
+Probability value    :  0.962955
+
+
+ 12:55:05.880025: 
+ 
+ 
+ 12:55:05.880025: 
+ 
+ 
+ 
+ 
+Photo Name           :  F594
+predicted Alphabet   :  F
+Probability value    :  0.998562
+
+
+ 12:55:12.609644: 
+ 
+ 
+ 12:55:12.609644: 
+ 
+ 
+ 
+ 
+Photo Name           :  F595
+predicted Alphabet   :  F
+Probability value    :  0.994151
+
+
+ 12:55:19.346261: 
+ 
+ 
+ 12:55:19.346261: 
+ 
+ 
+ 
+ 
+Photo Name           :  F596
+predicted Alphabet   :  F
+Probability value    :  0.967812
+
+
+ 12:55:25.958489: 
+ 
+ 
+ 12:55:25.974089: 
+ 
+ 
+ 
+ 
+Photo Name           :  F597
+predicted Alphabet   :  F
+Probability value    :  0.993668
+
+
+ 12:55:32.489111: 
+ 
+ 
+ 12:55:32.489111: 
+ 
+ 
+ 
+ 
+Photo Name           :  F598
+predicted Alphabet   :  F
+Probability value    :  0.998112
+
+
+ 12:55:39.238531: 
+ 
+ 
+ 12:55:39.238531: 
+ 
+ 
+ 
+ 
+Photo Name           :  F599
+predicted Alphabet   :  F
+Probability value    :  0.996375
+
+
+ 12:55:45.988950: 
+ 
+ 
+ 12:55:45.988950: 
+ 
+ 
+ 
+ 
+Photo Name           :  F600
+predicted Alphabet   : F
+Probability value    :  0.655015
+
+
+ 12:55:52.928374: 
+ 
+ 
+ 12:55:52.928374: 
+ 
+ 
+ 
+ 
+Photo Name           :  F601
+predicted Alphabet   :  F
+Probability value    :  0.975818
+
+
+ 12:56:00.902995: 
+ 
+ 
+ 12:56:00.902995: 
+ 
+ 
+ 
+ 
+Photo Name           :  F602
+predicted Alphabet   :  F
+Probability value    :  0.999044
+
+
+ 12:56:07.771215: 
+ 
+ 
+ 12:56:07.771215: 
+ 
+ 
+ 
+ 
+Photo Name           :  F603
+predicted Alphabet   : Unknown
+Probability value    :  0.609594
+
+
+ 12:56:14.509629: 
+ 
+ 
+ 12:56:14.509629: 
+ 
+ 
+ 
+ 
+Photo Name           :  F604
+predicted Alphabet   :  F
+Probability value    :  0.999279
+
+
+ 12:56:21.495851: 
+ 
+ 
+ 12:56:21.495851: 
+ 
+ 
+ 
+ 
+Photo Name           :  F605
+predicted Alphabet   : F
+Probability value    :  0.836248
+
+
+ 12:56:28.488072: 
+ 
+ 
+ 12:56:28.488072: 
+ 
+ 
+ 
+ 
+Photo Name           :  F606
+predicted Alphabet   : Unknown
+Probability value    :  0.871269
+
+
+ 12:56:37.770501: 
+ 
+ 
+ 12:56:37.770501: 
+ 
+ 
+ 
+ 
+Photo Name           :  F607
+predicted Alphabet   :  F
+Probability value    :  0.910156
+
+
+ 12:56:46.036730: 
+ 
+ 
+ 12:56:46.036730: 
+ 
+ 
+ 
+ 
+Photo Name           :  F608
+predicted Alphabet   :  F
+Probability value    :  0.994531
+
+
+ 12:56:54.052158: 
+ 
+ 
+ 12:56:54.052158: 
+ 
+ 
+ 
+ 
+Photo Name           :  F609
+predicted Alphabet   :  F
+Probability value    :  0.998933
+
+
+ 12:57:01.079580: 
+ 
+ 
+ 12:57:01.079580: 
+ 
+ 
+ 
+ 
+Photo Name           :  F610
+predicted Alphabet   :  F
+Probability value    :  0.999795
+
+
+ 12:57:08.367199: 
+ 
+ 
+ 12:57:08.382799: 
+ 
+ 
+ 
+ 
+Photo Name           :  F611
+predicted Alphabet   :  P
+Probability value    :  0.996633
+
+
+ 12:57:17.239232: 
+ 
+ 
+ 12:57:17.239232: 
+ 
+ 
+ 
+ 
+Photo Name           :  G562
+predicted Alphabet   :  G
+Probability value    :  0.981112
+
+
+ 12:57:26.358860: 
+ 
+ 
+ 12:57:26.358860: 
+ 
+ 
+ 
+ 
+Photo Name           :  G563
+predicted Alphabet   :  G
+Probability value    :  0.999887
+
+
+ 12:57:33.666682: 
+ 
+ 
+ 12:57:33.666682: 
+ 
+ 
+ 
+ 
+Photo Name           :  G564
+predicted Alphabet   :  G
+Probability value    :  1.0
+
+
+ 12:57:41.493302: 
+ 
+ 
+ 12:57:41.493302: 
+ 
+ 
+ 
+ 
+Photo Name           :  G565
+predicted Alphabet   :  G
+Probability value    :  0.999995
+
+
+ 12:57:51.059528: 
+ 
+ 
+ 12:57:51.059528: 
+ 
+ 
+ 
+ 
+Photo Name           :  G566
+predicted Alphabet   :  G
+Probability value    :  1.0
+
+
+ 12:57:58.362945: 
+ 
+ 
+ 12:57:58.362945: 
+ 
+ 
+ 
+ 
+Photo Name           :  G567
+predicted Alphabet   :  G
+Probability value    :  0.999905
+
+
+ 12:58:05.926773: 
+ 
+ 
+ 12:58:05.926773: 
+ 
+ 
+ 
+ 
+Photo Name           :  G568
+predicted Alphabet   :  G
+Probability value    :  1.0
+
+
+ 12:58:13.238199: 
+ 
+ 
+ 12:58:13.238199: 
+ 
+ 
+ 
+ 
+Photo Name           :  G569
+predicted Alphabet   :  G
+Probability value    :  1.0
+
+
+ 12:58:20.692821: 
+ 
+ 
+ 12:58:20.692821: 
+ 
+ 
+ 
+ 
+Photo Name           :  G570
+predicted Alphabet   :  G
+Probability value    :  1.0
+
+
+ 12:58:30.598048: 
+ 
+ 
+ 12:58:30.598048: 
+ 
+ 
+ 
+ 
+Photo Name           :  G571
+predicted Alphabet   :  G
+Probability value    :  0.9978
+
+
+ 12:58:38.192076: 
+ 
+ 
+ 12:58:38.192076: 
+ 
+ 
+ 
+ 
+Photo Name           :  G572
+predicted Alphabet   :  G
+Probability value    :  0.939499
+
+
+ 12:58:45.597101: 
+ 
+ 
+ 12:58:45.597101: 
+ 
+ 
+ 
+ 
+Photo Name           :  G573
+predicted Alphabet   :  G
+Probability value    :  0.999985
+
+
+ 12:58:52.880129: 
+ 
+ 
+ 12:58:52.880129: 
+ 
+ 
+ 
+ 
+Photo Name           :  G574
+predicted Alphabet   :  G
+Probability value    :  0.999995
+
+
+ 12:59:00.628152: 
+ 
+ 
+ 12:59:00.628152: 
+ 
+ 
+ 
+ 
+Photo Name           :  G575
+predicted Alphabet   :  G
+Probability value    :  0.998934
+
+
+ 12:59:08.062374: 
+ 
+ 
+ 12:59:08.062374: 
+ 
+ 
+ 
+ 
+Photo Name           :  G576
+predicted Alphabet   :  G
+Probability value    :  0.999973
+
+
+ 12:59:15.505997: 
+ 
+ 
+ 12:59:15.505997: 
+ 
+ 
+ 
+ 
+Photo Name           :  G577
+predicted Alphabet   :  G
+Probability value    :  0.999992
+
+
+ 12:59:23.267220: 
+ 
+ 
+ 12:59:23.267220: 
+ 
+ 
+ 
+ 
+Photo Name           :  G578
+predicted Alphabet   :  G
+Probability value    :  0.999962
+
+
+ 12:59:32.083852: 
+ 
+ 
+ 12:59:32.083852: 
+ 
+ 
+ 
+ 
+Photo Name           :  G579
+predicted Alphabet   :  G
+Probability value    :  0.999999
+
+
+ 12:59:39.957876: 
+ 
+ 
+ 12:59:39.957876: 
+ 
+ 
+ 
+ 
+Photo Name           :  G580
+predicted Alphabet   : F
+Probability value    :  0.876477
+
+
+ 12:59:49.567109: 
+ 
+ 
+ 12:59:49.567109: 
+ 
+ 
+ 
+ 
+Photo Name           :  G581
+predicted Alphabet   :  G
+Probability value    :  0.999995
+
+
+ 12:59:58.550339: 
+ 
+ 
+ 12:59:58.550339: 
+ 
+ 
+ 
+ 
+Photo Name           :  G582
+predicted Alphabet   :  G
+Probability value    :  1.0
+
+
+ 13:00:06.489566: 
+ 
+ 
+ 13:00:06.489566: 
+ 
+ 
+ 
+ 
+Photo Name           :  G583
+predicted Alphabet   :  G
+Probability value    :  0.999384
+
+
+ 13:00:15.480997: 
+ 
+ 
+ 13:00:15.480997: 
+ 
+ 
+ 
+ 
+Photo Name           :  G584
+predicted Alphabet   :  G
+Probability value    :  0.999993
+
+
+ 13:00:23.172211: 
+ 
+ 
+ 13:00:23.172211: 
+ 
+ 
+ 
+ 
+Photo Name           :  G585
+predicted Alphabet   :  G
+Probability value    :  0.999997
+
+
+ 13:00:31.700234: 
+ 
+ 
+ 13:00:31.700234: 
+ 
+ 
+ 
+ 
+Photo Name           :  G586
+predicted Alphabet   : Unknown
+Probability value    :  0.639094
+
+
+ 13:00:42.411458: 
+ 
+ 
+ 13:00:42.411458: 
+ 
+ 
+ 
+ 
+Photo Name           :  G587
+predicted Alphabet   : G
+Probability value    :  0.68195
+
+
+ 13:00:51.546077: 
+ 
+ 
+ 13:00:51.546077: 
+ 
+ 
+ 
+ 
+Photo Name           :  G588
+predicted Alphabet   :  G
+Probability value    :  0.999687
+
+
+ 13:00:59.786296: 
+ 
+ 
+ 13:00:59.786296: 
+ 
+ 
+ 
+ 
+Photo Name           :  G589
+predicted Alphabet   :  G
+Probability value    :  0.999998
+
+
+ 13:01:10.030527: 
+ 
+ 
+ 13:01:10.030527: 
+ 
+ 
+ 
+ 
+Photo Name           :  G590
+predicted Alphabet   :  Q
+Probability value    :  0.920718
+
+
+ 13:01:18.036350: 
+ 
+ 
+ 13:01:18.036350: 
+ 
+ 
+ 
+ 
+Photo Name           :  G591
+predicted Alphabet   :  G
+Probability value    :  0.999984
+
+
+ 13:01:27.023578: 
+ 
+ 
+ 13:01:27.023578: 
+ 
+ 
+ 
+ 
+Photo Name           :  G592
+predicted Alphabet   :  G
+Probability value    :  0.999955
+
+
+ 13:01:35.208806: 
+ 
+ 
+ 13:01:35.208806: 
+ 
+ 
+ 
+ 
+Photo Name           :  G593
+predicted Alphabet   :  G
+Probability value    :  1.0
+
+
+ 13:01:44.082038: 
+ 
+ 
+ 13:01:44.082038: 
+ 
+ 
+ 
+ 
+Photo Name           :  G594
+predicted Alphabet   :  G
+Probability value    :  0.999998
+
+
+ 13:01:54.741073: 
+ 
+ 
+ 13:01:54.756673: 
+ 
+ 
+ 
+ 
+Photo Name           :  G595
+predicted Alphabet   :  G
+Probability value    :  0.999994
+
+
+ 13:02:02.874298: 
+ 
+ 
+ 13:02:02.874298: 
+ 
+ 
+ 
+ 
+Photo Name           :  G596
+predicted Alphabet   : Unknown
+Probability value    :  0.676315
+
+
+ 13:02:11.307524: 
+ 
+ 
+ 13:02:11.307524: 
+ 
+ 
+ 
+ 
+Photo Name           :  G597
+predicted Alphabet   :  G
+Probability value    :  0.981737
+
+
+ 13:02:19.566144: 
+ 
+ 
+ 13:02:19.566144: 
+ 
+ 
+ 
+ 
+Photo Name           :  G598
+predicted Alphabet   : G
+Probability value    :  0.545194
+
+
+ 13:02:28.800174: 
+ 
+ 
+ 13:02:28.800174: 
+ 
+ 
+ 
+ 
+Photo Name           :  G599
+predicted Alphabet   : Unknown
+Probability value    :  0.73399
+
+
+ 13:02:36.833602: 
+ 
+ 
+ 13:02:36.833602: 
+ 
+ 
+ 
+ 
+Photo Name           :  G600
+predicted Alphabet   : G
+Probability value    :  0.543145
+
+
+ 13:02:45.770630: 
+ 
+ 
+ 13:02:45.770630: 
+ 
+ 
+ 
+ 
+Photo Name           :  G601
+predicted Alphabet   :  G
+Probability value    :  0.999457
+
+
+ 13:02:56.124055: 
+ 
+ 
+ 13:02:56.139655: 
+ 
+ 
+ 
+ 
+Photo Name           :  G602
+predicted Alphabet   :  G
+Probability value    :  0.999987
+
+
+ 13:03:04.501479: 
+ 
+ 
+ 13:03:04.501479: 
+ 
+ 
+ 
+ 
+Photo Name           :  G603
+predicted Alphabet   : Unknown
+Probability value    :  0.703364
+
+
+ 13:03:13.813109: 
+ 
+ 
+ 13:03:13.813109: 
+ 
+ 
+ 
+ 
+Photo Name           :  G604
+predicted Alphabet   :  G
+Probability value    :  0.998345
+
+
+ 13:03:22.323734: 
+ 
+ 
+ 13:03:22.323734: 
+ 
+ 
+ 
+ 
+Photo Name           :  G605
+predicted Alphabet   :  G
+Probability value    :  0.998578
+
+
+ 13:03:33.988765: 
+ 
+ 
+ 13:03:33.988765: 
+ 
+ 
+ 
+ 
+Photo Name           :  G606
+predicted Alphabet   :  G
+Probability value    :  1.0
+
+
+ 13:03:42.592190: 
+ 
+ 
+ 13:03:42.592190: 
+ 
+ 
+ 
+ 
+Photo Name           :  G607
+predicted Alphabet   :  G
+Probability value    :  0.986071
+
+
+ 13:03:50.691009: 
+ 
+ 
+ 13:03:50.691009: 
+ 
+ 
+ 
+ 
+Photo Name           :  G608
+predicted Alphabet   :  G
+Probability value    :  0.981744
+
+
+ 13:03:59.276835: 
+ 
+ 
+ 13:03:59.276835: 
+ 
+ 
+ 
+ 
+Photo Name           :  G609
+predicted Alphabet   :  G
+Probability value    :  0.999843
+
+
+ 13:04:07.692858: 
+ 
+ 
+ 13:04:07.692858: 
+ 
+ 
+ 
+ 
+Photo Name           :  G610
+predicted Alphabet   :  G
+Probability value    :  0.999996
+
+
+ 13:04:16.168880: 
+ 
+ 
+ 13:04:16.168880: 
+ 
+ 
+ 
+ 
+Photo Name           :  G611
+predicted Alphabet   :  G
+Probability value    :  0.999419
+
+
+ 13:04:24.660903: 
+ 
+ 
+ 13:04:24.660903: 
+ 
+ 
+ 
+ 
+Photo Name           :  H562
+predicted Alphabet   :  H
+Probability value    :  0.977521
+
+
+ 13:04:33.275929: 
+ 
+ 
+ 13:04:33.275929: 
+ 
+ 
+ 
+ 
+Photo Name           :  H563
+predicted Alphabet   :  P
+Probability value    :  0.999461
+
+
+ 13:04:41.918549: 
+ 
+ 
+ 13:04:41.918549: 
+ 
+ 
+ 
+ 
+Photo Name           :  H564
+predicted Alphabet   :  H
+Probability value    :  0.9494
+
+
+ 13:04:50.519169: 
+ 
+ 
+ 13:04:50.519169: 
+ 
+ 
+ 
+ 
+Photo Name           :  H565
+predicted Alphabet   :  H
+Probability value    :  0.992676
+
+
+ 13:04:59.184792: 
+ 
+ 
+ 13:04:59.184792: 
+ 
+ 
+ 
+ 
+Photo Name           :  H566
+predicted Alphabet   :  H
+Probability value    :  0.928301
+
+
+ 13:05:08.171818: 
+ 
+ 
+ 13:05:08.171818: 
+ 
+ 
+ 
+ 
+Photo Name           :  H567
+predicted Alphabet   :  H
+Probability value    :  0.997497
+
+
+ 13:05:16.828044: 
+ 
+ 
+ 13:05:16.828044: 
+ 
+ 
+ 
+ 
+Photo Name           :  H568
+predicted Alphabet   : H
+Probability value    :  0.677876
+
+
+ 13:05:25.725877: 
+ 
+ 
+ 13:05:25.725877: 
+ 
+ 
+ 
+ 
+Photo Name           :  H569
+predicted Alphabet   : Unknown
+Probability value    :  0.535147
+
+
+ 13:05:34.605504: 
+ 
+ 
+ 13:05:34.605504: 
+ 
+ 
+ 
+ 
+Photo Name           :  H570
+predicted Alphabet   :  P
+Probability value    :  0.999876
+
+
+ 13:05:43.639928: 
+ 
+ 
+ 13:05:43.639928: 
+ 
+ 
+ 
+ 
+Photo Name           :  H571
+predicted Alphabet   :  H
+Probability value    :  0.999664
+
+
+ 13:05:52.660755: 
+ 
+ 
+ 13:05:52.661755: 
+ 
+ 
+ 
+ 
+Photo Name           :  H572
+predicted Alphabet   :  H
+Probability value    :  0.999995
+
+
+ 13:06:01.882181: 
+ 
+ 
+ 13:06:01.882181: 
+ 
+ 
+ 
+ 
+Photo Name           :  H573
+predicted Alphabet   :  H
+Probability value    :  0.999994
+
+
+ 13:06:10.981411: 
+ 
+ 
+ 13:06:10.981411: 
+ 
+ 
+ 
+ 
+Photo Name           :  H574
+predicted Alphabet   :  H
+Probability value    :  0.999996
+
+
+ 13:06:20.268238: 
+ 
+ 
+ 13:06:20.268238: 
+ 
+ 
+ 
+ 
+Photo Name           :  H575
+predicted Alphabet   :  H
+Probability value    :  0.999773
+
+
+ 13:06:29.447262: 
+ 
+ 
+ 13:06:29.447262: 
+ 
+ 
+ 
+ 
+Photo Name           :  H576
+predicted Alphabet   :  H
+Probability value    :  0.999901
+
+
+ 13:06:38.760892: 
+ 
+ 
+ 13:06:38.760892: 
+ 
+ 
+ 
+ 
+Photo Name           :  H577
+predicted Alphabet   :  H
+Probability value    :  0.999583
+
+
+ 13:06:47.922114: 
+ 
+ 
+ 13:06:47.922114: 
+ 
+ 
+ 
+ 
+Photo Name           :  H578
+predicted Alphabet   : H
+Probability value    :  0.669497
+
+
+ 13:06:57.295545: 
+ 
+ 
+ 13:06:57.295545: 
+ 
+ 
+ 
+ 
+Photo Name           :  H579
+predicted Alphabet   : Unknown
+Probability value    :  0.87223
+
+
+ 13:07:06.661372: 
+ 
+ 
+ 13:07:06.662372: 
+ 
+ 
+ 
+ 
+Photo Name           :  H580
+predicted Alphabet   :  H
+Probability value    :  0.999912
+
+
+ 13:07:16.685208: 
+ 
+ 
+ 13:07:16.685208: 
+ 
+ 
+ 
+ 
+Photo Name           :  H581
+predicted Alphabet   :  H
+Probability value    :  0.99998
+
+
+ 13:07:26.246835: 
+ 
+ 
+ 13:07:26.246835: 
+ 
+ 
+ 
+ 
+Photo Name           :  H582
+predicted Alphabet   :  H
+Probability value    :  0.999052
+
+
+ 13:07:35.950854: 
+ 
+ 
+ 13:07:35.950854: 
+ 
+ 
+ 
+ 
+Photo Name           :  H583
+predicted Alphabet   :  H
+Probability value    :  0.993581
+
+
+ 13:07:45.512476: 
+ 
+ 
+ 13:07:45.512476: 
+ 
+ 
+ 
+ 
+Photo Name           :  H584
+predicted Alphabet   :  H
+Probability value    :  0.999488
+
+
+ 13:07:55.377305: 
+ 
+ 
+ 13:07:55.392905: 
+ 
+ 
+ 
+ 
+Photo Name           :  H585
+predicted Alphabet   :  H
+Probability value    :  1.0
+
+
+ 13:08:04.987733: 
+ 
+ 
+ 13:08:04.987733: 
+ 
+ 
+ 
+ 
+Photo Name           :  H586
+predicted Alphabet   :  H
+Probability value    :  0.999881
+
+
+ 13:08:14.636758: 
+ 
+ 
+ 13:08:14.636758: 
+ 
+ 
+ 
+ 
+Photo Name           :  H587
+predicted Alphabet   :  H
+Probability value    :  0.998681
+
+
+ 13:08:24.340587: 
+ 
+ 
+ 13:08:24.340587: 
+ 
+ 
+ 
+ 
+Photo Name           :  H588
+predicted Alphabet   :  H
+Probability value    :  0.999527
+
+
+ 13:08:33.912415: 
+ 
+ 
+ 13:08:33.912415: 
+ 
+ 
+ 
+ 
+Photo Name           :  H589
+predicted Alphabet   :  H
+Probability value    :  0.999862
+
+
+ 13:08:43.839636: 
+ 
+ 
+ 13:08:43.839636: 
+ 
+ 
+ 
+ 
+Photo Name           :  H590
+predicted Alphabet   :  H
+Probability value    :  0.909869
+
+
+ 13:08:53.469257: 
+ 
+ 
+ 13:08:53.469257: 
+ 
+ 
+ 
+ 
+Photo Name           :  H591
+predicted Alphabet   :  H
+Probability value    :  0.999509
+
+
+ 13:09:03.299684: 
+ 
+ 
+ 13:09:03.299684: 
+ 
+ 
+ 
+ 
+Photo Name           :  H592
+predicted Alphabet   : H
+Probability value    :  0.894965
+
+
+ 13:09:13.138916: 
+ 
+ 
+ 13:09:13.138916: 
+ 
+ 
+ 
+ 
+Photo Name           :  H593
+predicted Alphabet   :  H
+Probability value    :  0.999938
+
+
+ 13:09:22.969740: 
+ 
+ 
+ 13:09:22.969740: 
+ 
+ 
+ 
+ 
+Photo Name           :  H594
+predicted Alphabet   :  H
+Probability value    :  0.999973
+
+
+ 13:09:32.639566: 
+ 
+ 
+ 13:09:32.639566: 
+ 
+ 
+ 
+ 
+Photo Name           :  H595
+predicted Alphabet   :  H
+Probability value    :  0.999994
+
+
+ 13:09:42.030200: 
+ 
+ 
+ 13:09:42.045800: 
+ 
+ 
+ 
+ 
+Photo Name           :  H596
+predicted Alphabet   :  H
+Probability value    :  0.999876
+
+
+ 13:09:51.635425: 
+ 
+ 
+ 13:09:51.635425: 
+ 
+ 
+ 
+ 
+Photo Name           :  H597
+predicted Alphabet   :  H
+Probability value    :  0.988409
+
+
+ 13:10:01.373451: 
+ 
+ 
+ 13:10:01.373451: 
+ 
+ 
+ 
+ 
+Photo Name           :  H598
+predicted Alphabet   : Unknown
+Probability value    :  0.630766
+
+
+ 13:10:10.877479: 
+ 
+ 
+ 13:10:10.877479: 
+ 
+ 
+ 
+ 
+Photo Name           :  H599
+predicted Alphabet   : H
+Probability value    :  0.575783
+
+
+ 13:10:20.342114: 
+ 
+ 
+ 13:10:20.342114: 
+ 
+ 
+ 
+ 
+Photo Name           :  H600
+predicted Alphabet   :  H
+Probability value    :  0.999331
+
+
+ 13:10:32.156542: 
+ 
+ 
+ 13:10:32.156542: 
+ 
+ 
+ 
+ 
+Photo Name           :  H601
+predicted Alphabet   :  M
+Probability value    :  0.926311
+
+
+ 13:10:41.639367: 
+ 
+ 
+ 13:10:41.639367: 
+ 
+ 
+ 
+ 
+Photo Name           :  H602
+predicted Alphabet   :  H
+Probability value    :  0.982436
+
+
+ 13:10:51.329790: 
+ 
+ 
+ 13:10:51.329790: 
+ 
+ 
+ 
+ 
+Photo Name           :  H603
+predicted Alphabet   :  P
+Probability value    :  0.925586
+
+
+ 13:11:01.667012: 
+ 
+ 
+ 13:11:01.667012: 
+ 
+ 
+ 
+ 
+Photo Name           :  H604
+predicted Alphabet   :  P
+Probability value    :  0.997986
+
+
+ 13:11:11.509836: 
+ 
+ 
+ 13:11:11.509836: 
+ 
+ 
+ 
+ 
+Photo Name           :  H605
+predicted Alphabet   :  H
+Probability value    :  0.999887
+
+
+ 13:11:21.874059: 
+ 
+ 
+ 13:11:21.874059: 
+ 
+ 
+ 
+ 
+Photo Name           :  H606
+predicted Alphabet   : Unknown
+Probability value    :  0.587414
+
+
+ 13:11:32.643293: 
+ 
+ 
+ 13:11:32.643293: 
+ 
+ 
+ 
+ 
+Photo Name           :  H607
+predicted Alphabet   :  H
+Probability value    :  0.99076
+
+
+ 13:11:43.618928: 
+ 
+ 
+ 13:11:43.618928: 
+ 
+ 
+ 
+ 
+Photo Name           :  H608
+predicted Alphabet   :  A
+Probability value    :  0.971268
+
+
+ 13:11:54.495751: 
+ 
+ 
+ 13:11:54.495751: 
+ 
+ 
+ 
+ 
+Photo Name           :  H609
+predicted Alphabet   :  H
+Probability value    :  0.999939
+
+
+ 13:12:04.799275: 
+ 
+ 
+ 13:12:04.799275: 
+ 
+ 
+ 
+ 
+Photo Name           :  H610
+predicted Alphabet   :  H
+Probability value    :  0.999659
+
+
+ 13:12:14.837196: 
+ 
+ 
+ 13:12:14.837196: 
+ 
+ 
+ 
+ 
+Photo Name           :  H611
+predicted Alphabet   :  H
+Probability value    :  0.999593
+
+
+ 13:12:25.315119: 
+ 
+ 
+ 13:12:25.315119: 
+ 
+ 
+ 
+ 
+Photo Name           :  I562
+predicted Alphabet   : H
+Probability value    :  0.549019
+
+
+ 13:12:35.444340: 
+ 
+ 
+ 13:12:35.444340: 
+ 
+ 
+ 
+ 
+Photo Name           :  I563
+predicted Alphabet   :  I
+Probability value    :  0.982894
+
+
+ 13:12:45.474463: 
+ 
+ 
+ 13:12:45.474463: 
+ 
+ 
+ 
+ 
+Photo Name           :  I564
+predicted Alphabet   :  I
+Probability value    :  0.999967
+
+
+ 13:12:57.119286: 
+ 
+ 
+ 13:12:57.119286: 
+ 
+ 
+ 
+ 
+Photo Name           :  I565
+predicted Alphabet   :  I
+Probability value    :  0.999504
+
+
+ 13:13:10.256213: 
+ 
+ 
+ 13:13:10.256213: 
+ 
+ 
+GPU (device: 0, name: GeForce 930M, pci bus id:
+: 5.0)
+Photo Name           :  I566
+predicted Alphabet   :  I
+Probability value    :  0.999612
+
+
+ 13:13:20.950034: 
+ 
+ 
+ 13:13:20.950034: 
+ 
+ 
+GPU (device: 0, name: GeForce 930M, pci bus id:
+: 5.0)
+Photo Name           :  I567
+predicted Alphabet   :  I
+Probability value    :  0.954626
+
+
+ 13:13:31.819357: 
+ 
+ 
+ 13:13:31.850557: 
+ 
+ 
+PU (device: 0, name: GeForce 930M, pci bus id: 0
+ 5.0)
+Photo Name           :  I568
+predicted Alphabet   :  I
+Probability value    :  0.99422
+
+
+ 13:13:42.256577: 
+ 
+ 
+ 13:13:42.256577: 
+ 
+ 
+ 
+ 
+Photo Name           :  I569
+predicted Alphabet   :  I
+Probability value    :  0.974507
+
+
+ 13:13:53.034100: 
+ 
+ 
+ 13:13:53.034100: 
+ 
+ 
+ 
+ 
+Photo Name           :  I570
+predicted Alphabet   : I
+Probability value    :  0.788931
+
+
+ 13:14:03.365522: 
+ 
+ 
+ 13:14:03.365522: 
+ 
+ 
+ 
+ 
+Photo Name           :  I571
+predicted Alphabet   : Unknown
+Probability value    :  0.69399
+
+
+ 13:14:13.429743: 
+ 
+ 
+ 13:14:13.429743: 
+ 
+ 
+ 
+ 
+Photo Name           :  I572
+predicted Alphabet   : I
+Probability value    :  0.671709
+
+
+ 13:14:23.842663: 
+ 
+ 
+ 13:14:23.842663: 
+ 
+ 
+ 
+ 
+Photo Name           :  I573
+predicted Alphabet   :  I
+Probability value    :  0.998233
+
+
+ 13:14:34.449784: 
+ 
+ 
+ 13:14:34.449784: 
+ 
+ 
+ 
+ 
+Photo Name           :  I574
+predicted Alphabet   : Unknown
+Probability value    :  0.713975
+
+
+ 13:14:46.522751: 
+ 
+ 
+ 13:14:46.525251: 
+ 
+ 
+ 
+ 
+Photo Name           :  I575
+predicted Alphabet   :  I
+Probability value    :  0.959782
+
+
+ 13:14:57.392785: 
+ 
+ 
+ 13:14:57.392785: 
+ 
+ 
+ 
+ 
+Photo Name           :  I576
+predicted Alphabet   :  I
+Probability value    :  0.999947
+
+
+ 13:15:07.908653: 
+ 
+ 
+ 13:15:07.908653: 
+ 
+ 
+ 
+ 
+Photo Name           :  I577
+predicted Alphabet   :  I
+Probability value    :  0.999751
+
+
+ 13:15:18.660601: 
+ 
+ 
+ 13:15:18.660601: 
+ 
+ 
+ 
+ 
+Photo Name           :  I578
+predicted Alphabet   :  I
+Probability value    :  0.99998
+
+
+ 13:15:29.393266: 
+ 
+ 
+ 13:15:29.393266: 
+ 
+ 
+ 
+ 
+Photo Name           :  I579
+predicted Alphabet   : I
+Probability value    :  0.650485
+
+
+ 13:15:40.572472: 
+ 
+ 
+ 13:15:40.572472: 
+ 
+ 
+ 
+ 
+Photo Name           :  I580
+predicted Alphabet   : Unknown
+Probability value    :  0.789891
+
+
+ 13:15:51.428223: 
+ 
+ 
+ 13:15:51.428223: 
+ 
+ 
+ 
+ 
+Photo Name           :  I581
+predicted Alphabet   :  I
+Probability value    :  0.973052
+
+
+ 13:16:02.809172: 
+ 
+ 
+ 13:16:02.809172: 
+ 
+ 
+ 
+ 
+Photo Name           :  I582
+predicted Alphabet   : I
+Probability value    :  0.740818
+
+
+ 13:16:13.968086: 
+ 
+ 
+ 13:16:13.968086: 
+ 
+ 
+ 
+ 
+Photo Name           :  I583
+predicted Alphabet   :  I
+Probability value    :  0.98998
+
+
+ 13:16:25.100571: 
+ 
+ 
+ 13:16:25.100571: 
+ 
+ 
+ 
+ 
+Photo Name           :  I584
+predicted Alphabet   : Unknown
+Probability value    :  0.851037
+
+
+ 13:16:35.687692: 
+ 
+ 
+ 13:16:35.687692: 
+ 
+ 
+ 
+ 
+Photo Name           :  I585
+predicted Alphabet   :  I
+Probability value    :  0.999995
+
+
+ 13:16:46.253518: 
+ 
+ 
+ 13:16:46.253518: 
+ 
+ 
+ 
+ 
+Photo Name           :  I586
+predicted Alphabet   :  I
+Probability value    :  0.999462
+
+
+ 13:16:57.013355: 
+ 
+ 
+ 13:16:57.013355: 
+ 
+ 
+ 
+ 
+Photo Name           :  I587
+predicted Alphabet   :  I
+Probability value    :  0.999609
+
+
+ 13:17:07.740977: 
+ 
+ 
+ 13:17:07.740977: 
+ 
+ 
+ 
+ 
+Photo Name           :  I588
+predicted Alphabet   :  I
+Probability value    :  0.999988
+
+
+ 13:17:18.541806: 
+ 
+ 
+ 13:17:18.541806: 
+ 
+ 
+ 
+ 
+Photo Name           :  I589
+predicted Alphabet   :  I
+Probability value    :  0.999887
+
+
+ 13:17:30.198748: 
+ 
+ 
+ 13:17:30.198748: 
+ 
+ 
+ 
+ 
+Photo Name           :  I590
+predicted Alphabet   : I
+Probability value    :  0.881598
+
+
+ 13:17:42.794684: 
+ 
+ 
+ 13:17:42.794684: 
+ 
+ 
+ 
+ 
+Photo Name           :  I591
+predicted Alphabet   :  I
+Probability value    :  0.994382
+
+
+ 13:18:00.224628: 
+ 
+ 
+ 13:18:00.224628: 
+ 
+ 
+PU (device: 0, name: GeForce 930M, pci bus id: 0
+ 5.0)
+Photo Name           :  I592
+predicted Alphabet   :  I
+Probability value    :  0.999999
+
+
+ 13:18:11.518056: 
+ 
+ 
+ 13:18:11.518056: 
+ 
+ 
+ 
+ 
+Photo Name           :  I593
+predicted Alphabet   :  I
+Probability value    :  0.998342
+
+
+ 13:18:22.894987: 
+ 
+ 
+ 13:18:22.894987: 
+ 
+ 
+ 
+ 
+Photo Name           :  I594
+predicted Alphabet   :  I
+Probability value    :  0.997364
+
+
+ 13:18:34.433111: 
+ 
+ 
+ 13:18:34.433111: 
+ 
+ 
+ 
+ 
+Photo Name           :  I595
+predicted Alphabet   : Unknown
+Probability value    :  0.591779
+
+
+ 13:18:45.776533: 
+ 
+ 
+ 13:18:45.776533: 
+ 
+ 
+ 
+ 
+Photo Name           :  I596
+predicted Alphabet   :  I
+Probability value    :  0.998555
+
+
+ 13:18:57.348258: 
+ 
+ 
+ 13:18:57.348258: 
+ 
+ 
+ 
+ 
+Photo Name           :  I597
+predicted Alphabet   :  J
+Probability value    :  0.918417
+
+
+ 13:19:08.638282: 
+ 
+ 
+ 13:19:08.638282: 
+ 
+ 
+ 
+ 
+Photo Name           :  I598
+predicted Alphabet   :  C
+Probability value    :  0.929416
+
+
+ 13:19:19.946704: 
+ 
+ 
+ 13:19:19.946704: 
+ 
+ 
+ 
+ 
+Photo Name           :  I599
+predicted Alphabet   :  S
+Probability value    :  0.977472
+
+
+ 13:19:31.401928: 
+ 
+ 
+ 13:19:31.401928: 
+ 
+ 
+ 
+ 
+Photo Name           :  I600
+predicted Alphabet   :  I
+Probability value    :  0.999827
+
+
+ 13:19:52.818870: 
+ 
+ 
+ 13:19:52.818870: 
+ 
+ 
+GPU (device: 0, name: GeForce 930M, pci bus id:
+: 5.0)
+Photo Name           :  I601
+predicted Alphabet   : I
+Probability value    :  0.658852
+
+
+ 13:20:04.640995: 
+ 
+ 
+ 13:20:04.640995: 
+ 
+ 
+ 
+ 
+Photo Name           :  I602
+predicted Alphabet   : Unknown
+Probability value    :  0.669776
+
+
+ 13:20:15.992718: 
+ 
+ 
+ 13:20:15.992718: 
+ 
+ 
+ 
+ 
+Photo Name           :  I603
+predicted Alphabet   :  I
+Probability value    :  0.999931
+
+
+ 13:20:27.692343: 
+ 
+ 
+ 13:20:27.692343: 
+ 
+ 
+ 
+ 
+Photo Name           :  I604
+predicted Alphabet   :  I
+Probability value    :  0.999785
+
+
+ 13:20:39.961969: 
+ 
+ 
+ 13:20:39.961969: 
+ 
+ 
+ 
+ 
+Photo Name           :  I605
+predicted Alphabet   :  I
+Probability value    :  0.952147
+
+
+ 13:20:51.543693: 
+ 
+ 
+ 13:20:51.543693: 
+ 
+ 
+ 
+ 
+Photo Name           :  I606
+predicted Alphabet   : I
+Probability value    :  0.508444
+
+
+ 13:21:04.427718: 
+ 
+ 
+ 13:21:04.427718: 
+ 
+ 
+ 
+ 
+Photo Name           :  I607
+predicted Alphabet   : Unknown
+Probability value    :  0.849969
+
+
+ 13:21:15.991644: 
+ 
+ 
+ 13:21:15.991644: 
+ 
+ 
+ 
+ 
+Photo Name           :  I608
+predicted Alphabet   :  I
+Probability value    :  0.999987
+
+
+ 13:21:27.851868: 
+ 
+ 
+ 13:21:27.851868: 
+ 
+ 
+ 
+ 
+Photo Name           :  I609
+predicted Alphabet   :  I
+Probability value    :  0.999986
+
+
+ 13:21:46.067005: 
+ 
+ 
+ 13:21:46.067005: 
+ 
+ 
+GPU (device: 0, name: GeForce 930M, pci bus id:
+: 5.0)
+Photo Name           :  I610
+predicted Alphabet   :  I
+Probability value    :  0.978559
+
+
+ 13:21:57.992629: 
+ 
+ 
+ 13:21:57.992629: 
+ 
+ 
+ 
+ 
+Photo Name           :  I611
+predicted Alphabet   :  I
+Probability value    :  0.999677
+
+
+ 13:22:09.607351: 
+ 
+ 
+ 13:22:09.622951: 
+ 
+ 
+ 
+ 
+Photo Name           :  J562
+predicted Alphabet   : I
+Probability value    :  0.608005
+
+
+ 13:22:21.450473: 
+ 
+ 
+ 13:22:21.450473: 
+ 
+ 
+ 
+ 
+Photo Name           :  J563
+predicted Alphabet   : J
+Probability value    :  0.737878
+
+
+ 13:22:33.473896: 
+ 
+ 
+ 13:22:33.473896: 
+ 
+ 
+ 
+ 
+Photo Name           :  J564
+predicted Alphabet   : Unknown
+Probability value    :  0.502512
+
+
+ 13:22:49.526127: 
+ 
+ 
+ 13:22:49.526127: 
+ 
+ 
+ 
+ 
+Photo Name           :  J565
+predicted Alphabet   :  J
+Probability value    :  0.941795
+
+
+ 13:23:01.445451: 
+ 
+ 
+ 13:23:01.445451: 
+ 
+ 
+ 
+ 
+Photo Name           :  J566
+predicted Alphabet   : J
+Probability value    :  0.794689
+
+
+ 13:23:13.533980: 
+ 
+ 
+ 13:23:13.533980: 
+ 
+ 
+ 
+ 
+Photo Name           :  J567
+predicted Alphabet   :  J
+Probability value    :  0.999878
+
+
+ 13:23:25.347203: 
+ 
+ 
+ 13:23:25.347203: 
+ 
+ 
+ 
+ 
+Photo Name           :  J568
+predicted Alphabet   : Unknown
+Probability value    :  0.604611
+
+
+ 13:23:37.375026: 
+ 
+ 
+ 13:23:37.375026: 
+ 
+ 
+ 
+ 
+Photo Name           :  J569
+predicted Alphabet   :  J
+Probability value    :  0.999969
+
+
+ 13:23:49.262051: 
+ 
+ 
+ 13:23:49.262051: 
+ 
+ 
+ 
+ 
+Photo Name           :  J570
+predicted Alphabet   :  J
+Probability value    :  0.96313
+
+
+ 13:24:01.123379: 
+ 
+ 
+ 13:24:01.123379: 
+ 
+ 
+ 
+ 
+Photo Name           :  J571
+predicted Alphabet   : J
+Probability value    :  0.84456
+
+
+ 13:24:24.526526: 
+ 
+ 
+ 13:24:24.526526: 
+ 
+ 
+ 
+ 
+Photo Name           :  J572
+predicted Alphabet   :  J
+Probability value    :  0.980685
+
+
+ 13:24:36.734850: 
+ 
+ 
+ 13:24:36.734850: 
+ 
+ 
+ 
+ 
+Photo Name           :  J573
+predicted Alphabet   :  J
+Probability value    :  0.999976
+
+
+ 13:24:48.975474: 
+ 
+ 
+ 13:24:48.975474: 
+ 
+ 
+ 
+ 
+Photo Name           :  J574
+predicted Alphabet   : Unknown
+Probability value    :  0.57265
+
+
+ 13:25:00.743898: 
+ 
+ 
+ 13:25:00.743898: 
+ 
+ 
+ 
+ 
+Photo Name           :  J575
+predicted Alphabet   :  T
+Probability value    :  0.901084
+
+
+ 13:25:12.976320: 
+ 
+ 
+ 13:25:12.976320: 
+ 
+ 
+ 
+ 
+Photo Name           :  J576
+predicted Alphabet   :  J
+Probability value    :  0.984607
+
+
+ 13:25:25.132346: 
+ 
+ 
+ 13:25:25.132346: 
+ 
+ 
+ 
+ 
+Photo Name           :  J577
+predicted Alphabet   :  J
+Probability value    :  0.989396
+
+
+ 13:25:37.092370: 
+ 
+ 
+ 13:25:37.092370: 
+ 
+ 
+ 
+ 
+Photo Name           :  J578
+predicted Alphabet   :  J
+Probability value    :  0.992042
+
+
+ 13:25:49.224393: 
+ 
+ 
+ 13:25:49.224393: 
+ 
+ 
+ 
+ 
+Photo Name           :  J579
+predicted Alphabet   :  J
+Probability value    :  0.984638
+
+
+ 13:26:01.501015: 
+ 
+ 
+ 13:26:01.501015: 
+ 
+ 
+ 
+ 
+Photo Name           :  J580
+predicted Alphabet   :  J
+Probability value    :  0.999999
+
+
+ 13:26:13.579337: 
+ 
+ 
+ 13:26:13.579337: 
+ 
+ 
+ 
+ 
+Photo Name           :  J581
+predicted Alphabet   : J
+Probability value    :  0.503988
+
+
+ 13:26:25.940461: 
+ 
+ 
+ 13:26:25.940461: 
+ 
+ 
+ 
+ 
+Photo Name           :  J582
+predicted Alphabet   :  J
+Probability value    :  0.999997
+
+
+ 13:26:37.989484: 
+ 
+ 
+ 13:26:37.989484: 
+ 
+ 
+ 
+ 
+Photo Name           :  J583
+predicted Alphabet   : Unknown
+Probability value    :  0.486774
+
+
+ 13:26:50.435307: 
+ 
+ 
+ 13:26:50.435307: 
+ 
+ 
+ 
+ 
+Photo Name           :  J584
+predicted Alphabet   :  J
+Probability value    :  0.999998
+
+
+ 13:27:02.445131: 
+ 
+ 
+ 13:27:02.445131: 
+ 
+ 
+ 
+ 
+Photo Name           :  J585
+predicted Alphabet   :  J
+Probability value    :  0.999761
+
+
+ 13:27:15.009756: 
+ 
+ 
+ 13:27:15.009756: 
+ 
+ 
+ 
+ 
+Photo Name           :  J586
+predicted Alphabet   :  J
+Probability value    :  0.999972
+
+
+ 13:27:27.496880: 
+ 
+ 
+ 13:27:27.512480: 
+ 
+ 
+ 
+ 
+Photo Name           :  J587
+predicted Alphabet   : J
+Probability value    :  0.700239
+
+
+ 13:27:39.779505: 
+ 
+ 
+ 13:27:39.779505: 
+ 
+ 
+ 
+ 
+Photo Name           :  J588
+predicted Alphabet   :  I
+Probability value    :  0.996551
+
+
+ 13:27:52.224728: 
+ 
+ 
+ 13:27:52.224728: 
+ 
+ 
+ 
+ 
+Photo Name           :  J589
+predicted Alphabet   :  J
+Probability value    :  0.998211
+
+
+ 13:28:04.963252: 
+ 
+ 
+ 13:28:04.978852: 
+ 
+ 
+ 
+ 
+Photo Name           :  J590
+predicted Alphabet   : Unknown
+Probability value    :  0.596995
+
+
+ 13:28:17.363676: 
+ 
+ 
+ 13:28:17.379276: 
+ 
+ 
+ 
+ 
+Photo Name           :  J591
+predicted Alphabet   : J
+Probability value    :  0.597882
+
+
+ 13:28:30.112200: 
+ 
+ 
+ 13:28:30.112200: 
+ 
+ 
+ 
+ 
+Photo Name           :  J592
+predicted Alphabet   : Unknown
+Probability value    :  0.822824
+
+
+ 13:28:42.499725: 
+ 
+ 
+ 13:28:42.499725: 
+ 
+ 
+ 
+ 
+Photo Name           :  J593
+predicted Alphabet   :  J
+Probability value    :  0.996957
+
+
+ 13:28:55.309248: 
+ 
+ 
+ 13:28:55.309248: 
+ 
+ 
+ 
+ 
+Photo Name           :  J594
+predicted Alphabet   :  J
+Probability value    :  0.970298
+
+
+ 13:29:07.797673: 
+ 
+ 
+ 13:29:07.797673: 
+ 
+ 
+ 
+ 
+Photo Name           :  J595
+predicted Alphabet   :  J
+Probability value    :  0.970073
+
+
+ 13:29:20.592296: 
+ 
+ 
+ 13:29:20.592296: 
+ 
+ 
+ 
+ 
+Photo Name           :  J596
+predicted Alphabet   :  J
+Probability value    :  0.999901
+
+
+ 13:29:33.280920: 
+ 
+ 
+ 13:29:33.280920: 
+ 
+ 
+ 
+ 
+Photo Name           :  J597
+predicted Alphabet   :  J
+Probability value    :  0.999962
+
+
+ 13:29:46.562653: 
+ 
+ 
+ 13:29:46.562653: 
+ 
+ 
+ 
+ 
+Photo Name           :  J598
+predicted Alphabet   : J
+Probability value    :  0.898226
+
+
+ 13:29:59.821487: 
+ 
+ 
+ 13:29:59.821487: 
+ 
+ 
+ 
+ 
+Photo Name           :  J599
+predicted Alphabet   :  J
+Probability value    :  0.972848
+
+
+ 13:30:12.549310: 
+ 
+ 
+ 13:30:12.549310: 
+ 
+ 
+ 
+ 
+Photo Name           :  J600
+predicted Alphabet   :  J
+Probability value    :  0.981083
+
+
+ 13:30:25.289437: 
+ 
+ 
+ 13:30:25.289437: 
+ 
+ 
+ 
+ 
+Photo Name           :  J601
+predicted Alphabet   :  T
+Probability value    :  0.916522
+
+
+ 13:30:38.050864: 
+ 
+ 
+ 13:30:38.050864: 
+ 
+ 
+ 
+ 
+Photo Name           :  J602
+predicted Alphabet   : Unknown
+Probability value    :  0.722127
+
+
+ 13:30:50.995288: 
+ 
+ 
+ 13:30:50.995288: 
+ 
+ 
+ 
+ 
+Photo Name           :  J603
+predicted Alphabet   : J
+Probability value    :  0.519826
+
+
+ 13:31:04.430213: 
+ 
+ 
+ 13:31:04.430213: 
+ 
+ 
+ 
+ 
+Photo Name           :  J604
+predicted Alphabet   :  J
+Probability value    :  0.967275
+
+
+ 13:31:17.601440: 
+ 
+ 
+ 13:31:17.601440: 
+ 
+ 
+ 
+ 
+Photo Name           :  J605
+predicted Alphabet   :  L
+Probability value    :  0.910516
+
+
+ 13:31:30.742666: 
+ 
+ 
+ 13:31:30.742666: 
+ 
+ 
+ 
+ 
+Photo Name           :  J606
+predicted Alphabet   : J
+Probability value    :  0.702496
+
+
+ 13:31:44.153695: 
+ 
+ 
+ 13:31:44.169295: 
+ 
+ 
+ 
+ 
+Photo Name           :  J607
+predicted Alphabet   :  J
+Probability value    :  0.973997
+
+
+ 13:31:57.488221: 
+ 
+ 
+ 13:31:57.488221: 
+ 
+ 
+ 
+ 
+Photo Name           :  J608
+predicted Alphabet   :  J
+Probability value    :  0.956597
+
+
+ 13:32:10.915248: 
+ 
+ 
+ 13:32:10.915248: 
+ 
+ 
+ 
+ 
+Photo Name           :  J609
+predicted Alphabet   :  J
+Probability value    :  0.990474
+
+
+ 13:32:24.327577: 
+ 
+ 
+ 13:32:24.327577: 
+ 
+ 
+ 
+ 
+Photo Name           :  J610
+predicted Alphabet   :  J
+Probability value    :  0.906914
+
+
+ 13:32:37.810905: 
+ 
+ 
+ 13:32:37.810905: 
+ 
+ 
+ 
+ 
+Photo Name           :  J611
+predicted Alphabet   : Unknown
+Probability value    :  0.61848
+
+
+ 13:32:51.009430: 
+ 
+ 
+ 13:32:51.009430: 
+ 
+ 
+ 
+ 
+Photo Name           :  K562
+predicted Alphabet   :  K
+Probability value    :  0.99981
+
+
+ 13:33:04.486856: 
+ 
+ 
+ 13:33:04.486856: 
+ 
+ 
+ 
+ 
+Photo Name           :  K563
+predicted Alphabet   :  P
+Probability value    :  0.998863
+
+
+ 13:33:17.844684: 
+ 
+ 
+ 13:33:17.844684: 
+ 
+ 
+ 
+ 
+Photo Name           :  K564
+predicted Alphabet   :  K
+Probability value    :  0.999399
+
+
+ 13:33:31.715311: 
+ 
+ 
+ 13:33:31.715311: 
+ 
+ 
+ 
+ 
+Photo Name           :  K565
+predicted Alphabet   : K
+Probability value    :  0.425566
+
+
+ 13:33:44.966539: 
+ 
+ 
+ 13:33:44.966539: 
+ 
+ 
+ 
+ 
+Photo Name           :  K566
+predicted Alphabet   : K
+Probability value    :  0.766526
+
+
+ 13:33:58.451465: 
+ 
+ 
+ 13:33:58.451465: 
+ 
+ 
+ 
+ 
+Photo Name           :  K567
+predicted Alphabet   :  K
+Probability value    :  1.0
+
+
+ 13:34:11.713792: 
+ 
+ 
+ 13:34:11.713792: 
+ 
+ 
+ 
+ 
+Photo Name           :  K568
+predicted Alphabet   : Unknown
+Probability value    :  0.887648
+
+
+ 13:34:25.513622: 
+ 
+ 
+ 13:34:25.513622: 
+ 
+ 
+ 
+ 
+Photo Name           :  K569
+predicted Alphabet   : K
+Probability value    :  0.304541
+
+
+ 13:34:39.201549: 
+ 
+ 
+ 13:34:39.201549: 
+ 
+ 
+ 
+ 
+Photo Name           :  K570
+predicted Alphabet   : Unknown
+Probability value    :  0.276273
+
+
+ 13:34:52.771275: 
+ 
+ 
+ 13:34:52.771275: 
+ 
+ 
+ 
+ 
+Photo Name           :  K571
+predicted Alphabet   :  K
+Probability value    :  0.999698
+
+
+ 13:35:06.383103: 
+ 
+ 
+ 13:35:06.383103: 
+ 
+ 
+ 
+ 
+Photo Name           :  K572
+predicted Alphabet   : K
+Probability value    :  0.751617
+
+
+ 13:35:20.663832: 
+ 
+ 
+ 13:35:20.663832: 
+ 
+ 
+ 
+ 
+Photo Name           :  K573
+predicted Alphabet   :  K
+Probability value    :  0.999588
+
+
+ 13:35:34.483668: 
+ 
+ 
+ 13:35:34.483668: 
+ 
+ 
+ 
+ 
+Photo Name           :  K574
+predicted Alphabet   :  K
+Probability value    :  0.98973
+
+
+ 13:35:48.492497: 
+ 
+ 
+ 13:35:48.508097: 
+ 
+ 
+ 
+ 
+Photo Name           :  K575
+predicted Alphabet   : Unknown
+Probability value    :  0.722353
+
+
+ 13:36:01.917125: 
+ 
+ 
+ 13:36:01.917125: 
+ 
+ 
+ 
+ 
+Photo Name           :  K576
+predicted Alphabet   :  A
+Probability value    :  0.919942
+
+
+ 13:36:15.868868: 
+ 
+ 
+ 13:36:15.868868: 
+ 
+ 
+ 
+ 
+Photo Name           :  K577
+predicted Alphabet   :  K
+Probability value    :  0.981521
+
+
+ 13:36:29.728301: 
+ 
+ 
+ 13:36:29.728301: 
+ 
+ 
+ 
+ 
+Photo Name           :  K578
+predicted Alphabet   :  R
+Probability value    :  0.910133
+
+
+ 13:36:43.755342: 
+ 
+ 
+ 13:36:43.755342: 
+ 
+ 
+ 
+ 
+Photo Name           :  K579
+predicted Alphabet   :  K
+Probability value    :  0.94325
+
+
+ 13:36:58.089172: 
+ 
+ 
+ 13:36:58.089172: 
+ 
+ 
+ 
+ 
+Photo Name           :  K580
+predicted Alphabet   : K
+Probability value    :  0.459958
+
+
+ 13:37:12.198099: 
+ 
+ 
+ 13:37:12.198099: 
+ 
+ 
+ 
+ 
+Photo Name           :  K581
+predicted Alphabet   : Unknown
+Probability value    :  0.797675
+
+
+ 13:37:26.258830: 
+ 
+ 
+ 13:37:26.258830: 
+ 
+ 
+ 
+ 
+Photo Name           :  K582
+predicted Alphabet   :  R
+Probability value    :  0.941418
+
+
+ 13:37:42.126462: 
+ 
+ 
+ 13:37:42.126462: 
+ 
+ 
+ 
+ 
+Photo Name           :  K583
+predicted Alphabet   :  K
+Probability value    :  0.993561
+
+
+ 13:37:57.778093: 
+ 
+ 
+ 13:37:57.778093: 
+ 
+ 
+ 
+ 
+Photo Name           :  K584
+predicted Alphabet   : K
+Probability value    :  0.823043
+
+
+ 13:38:12.360722: 
+ 
+ 
+ 13:38:12.360722: 
+ 
+ 
+ 
+ 
+Photo Name           :  K585
+predicted Alphabet   :  K
+Probability value    :  0.928475
+
+
+ 13:38:26.679450: 
+ 
+ 
+ 13:38:26.679450: 
+ 
+ 
+ 
+ 
+Photo Name           :  K586
+predicted Alphabet   :  K
+Probability value    :  0.999999
+
+
+ 13:38:41.233177: 
+ 
+ 
+ 13:38:41.233177: 
+ 
+ 
+ 
+ 
+Photo Name           :  K587
+predicted Alphabet   : Unknown
+Probability value    :  0.854501
+
+
+ 13:38:55.602305: 
+ 
+ 
+ 13:38:55.602305: 
+ 
+ 
+ 
+ 
+Photo Name           :  K588
+predicted Alphabet   :  K
+Probability value    :  0.98836
+
+
+ 13:39:09.963534: 
+ 
+ 
+ 13:39:09.963534: 
+ 
+ 
+ 
+ 
+Photo Name           :  K589
+predicted Alphabet   :  K
+Probability value    :  0.999883
+
+
+ 13:39:24.905165: 
+ 
+ 
+ 13:39:24.905165: 
+ 
+ 
+ 
+ 
+Photo Name           :  K590
+predicted Alphabet   :  K
+Probability value    :  0.940144
+
+
+ 13:39:40.058795: 
+ 
+ 
+ 13:39:40.058795: 
+ 
+ 
+ 
+ 
+Photo Name           :  K591
+predicted Alphabet   :  K
+Probability value    :  0.998289
+
+
+ 13:39:54.713425: 
+ 
+ 
+ 13:39:54.713425: 
+ 
+ 
+ 
+ 
+Photo Name           :  K592
+predicted Alphabet   : K
+Probability value    :  0.730722
+
+
+ 13:40:09.760658: 
+ 
+ 
+ 13:40:09.760658: 
+ 
+ 
+ 
+ 
+Photo Name           :  K593
+predicted Alphabet   :  K
+Probability value    :  0.99947
+
+
+ 13:40:25.002987: 
+ 
+ 
+ 13:40:25.002987: 
+ 
+ 
+ 
+ 
+Photo Name           :  K594
+predicted Alphabet   : Unknown
+Probability value    :  0.337861
+
+
+ 13:40:40.194817: 
+ 
+ 
+ 13:40:40.194817: 
+ 
+ 
+ 
+ 
+Photo Name           :  K595
+predicted Alphabet   :  K
+Probability value    :  0.995705
+
+
+ 13:40:55.653446: 
+ 
+ 
+ 13:40:55.655946: 
+ 
+ 
+ 
+ 
+Photo Name           :  K596
+predicted Alphabet   :  K
+Probability value    :  0.999739
+
+
+ 13:41:11.656781: 
+ 
+ 
+ 13:41:11.656781: 
+ 
+ 
+ 
+ 
+Photo Name           :  K597
+predicted Alphabet   :  K
+Probability value    :  0.98682
+
+
+ 13:41:32.529623: 
+ 
+ 
+ 13:41:32.529623: 
+ 
+ 
+GPU (device: 0, name: GeForce 930M, pci bus id:
+: 5.0)
+Photo Name           :  K598
+predicted Alphabet   :  K
+Probability value    :  0.999642
+
+
+ 13:41:47.968555: 
+ 
+ 
+ 13:41:47.968555: 
+ 
+ 
+ 
+ 
+Photo Name           :  K599
+predicted Alphabet   :  K
+Probability value    :  0.959327
+
+
+ 13:42:03.220286: 
+ 
+ 
+ 13:42:03.220286: 
+ 
+ 
+ 
+ 
+Photo Name           :  K600
+predicted Alphabet   :  K
+Probability value    :  0.991373
+
+
+ 13:42:18.654417: 
+ 
+ 
+ 13:42:18.654417: 
+ 
+ 
+ 
+ 
+Photo Name           :  K601
+predicted Alphabet   : K
+Probability value    :  0.394243
+
+
+ 13:42:41.340063: 
+ 
+ 
+ 13:42:41.340063: 
+ 
+ 
+GPU (device: 0, name: GeForce 930M, pci bus id:
+: 5.0)
+Photo Name           :  K602
+predicted Alphabet   : Unknown
+Probability value    :  0.599667
+
+
+ 13:42:57.255493: 
+ 
+ 
+ 13:42:57.255493: 
+ 
+ 
+ 
+ 
+Photo Name           :  K603
+predicted Alphabet   :  K
+Probability value    :  0.985691
+
+
+ 13:43:12.234821: 
+ 
+ 
+ 13:43:12.234821: 
+ 
+ 
+ 
+ 
+Photo Name           :  K604
+predicted Alphabet   :  R
+Probability value    :  0.994596
+
+
+ 13:43:27.594951: 
+ 
+ 
+ 13:43:27.594951: 
+ 
+ 
+ 
+ 
+Photo Name           :  K605
+predicted Alphabet   :  R
+Probability value    :  0.995999
+
+
+ 13:43:42.899979: 
+ 
+ 
+ 13:43:42.899979: 
+ 
+ 
+ 
+ 
+Photo Name           :  K606
+predicted Alphabet   : K
+Probability value    :  0.541156
+
+
+ 13:43:58.028608: 
+ 
+ 
+ 13:43:58.028608: 
+ 
+ 
+ 
+ 
+Photo Name           :  K607
+predicted Alphabet   : Unknown
+Probability value    :  0.658534
+
+
+ 13:44:12.611035: 
+ 
+ 
+ 13:44:12.611035: 
+ 
+ 
+ 
+ 
+Photo Name           :  K608
+predicted Alphabet   :  R
+Probability value    :  0.995262
+
+
+ 13:44:27.356564: 
+ 
+ 
+ 13:44:27.356564: 
+ 
+ 
+ 
+ 
+Photo Name           :  K609
+predicted Alphabet   :  K
+Probability value    :  0.999966
+
+
+ 13:44:42.498894: 
+ 
+ 
+ 13:44:42.498894: 
+ 
+ 
+ 
+ 
+Photo Name           :  K610
+predicted Alphabet   :  K
+Probability value    :  0.998182
+
+
+ 13:44:57.689923: 
+ 
+ 
+ 13:44:57.689923: 
+ 
+ 
+ 
+ 
+Photo Name           :  K611
+predicted Alphabet   :  K
+Probability value    :  0.998219
+
+
+ 13:45:13.042755: 
+ 
+ 
+ 13:45:13.042755: 
+ 
+ 
+ 
+ 
+Photo Name           :  L562
+predicted Alphabet   : L
+Probability value    :  0.721904
+
+
+ 13:45:28.402986: 
+ 
+ 
+ 13:45:28.402986: 
+ 
+ 
+ 
+ 
+Photo Name           :  L563
+predicted Alphabet   :  L
+Probability value    :  0.998412
+
+
+ 13:45:43.601515: 
+ 
+ 
+ 13:45:43.601515: 
+ 
+ 
+ 
+ 
+Photo Name           :  L564
+predicted Alphabet   :  L
+Probability value    :  1.0
+
+
+ 13:45:59.245047: 
+ 
+ 
+ 13:45:59.245047: 
+ 
+ 
+ 
+ 
+Photo Name           :  L565
+predicted Alphabet   :  L
+Probability value    :  0.999909
+
+
+ 13:46:14.422477: 
+ 
+ 
+ 13:46:14.422477: 
+ 
+ 
+ 
+ 
+Traceback (most recent call last):
+  File "predictAll.py", line 102, in <module>
+    saver.restore(sess, tf.train.latest_checkpoi
+  File "C:\Anaconda3\envs\tensorflow\lib\site-pa
+g\saver.py", line 1755, in restore
+    {self.saver_def.filename_tensor_name: save_p
+  File "C:\Anaconda3\envs\tensorflow\lib\site-pa
+session.py", line 905, in run
+    run_metadata_ptr)
+  File "C:\Anaconda3\envs\tensorflow\lib\site-pa
+session.py", line 1137, in _run
+    feed_dict_tensor, options, run_metadata)
+  File "C:\Anaconda3\envs\tensorflow\lib\site-pa
+session.py", line 1355, in _do_run
+    options, run_metadata)
+  File "C:\Anaconda3\envs\tensorflow\lib\site-pa
+session.py", line 1361, in _do_call
+    return fn(*args)
+  File "C:\Anaconda3\envs\tensorflow\lib\site-pa
+session.py", line 1332, in _run_fn
+    self._extend_graph()
+  File "C:\Anaconda3\envs\tensorflow\lib\site-pa
+session.py", line 1392, in _extend_graph
+    graph_def.SerializeToString(), status)
+KeyboardInterrupt
